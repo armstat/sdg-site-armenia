@@ -19,7 +19,7 @@ environment: staging
 # Replace my-github-org and open-sdg-data-starter as needed.
 remotedatabaseurl: "https://armstat.github.io/sdg-data-armenia/staging"
 
-jekyll_get_data:
+jekyll_get_json:
   - data: meta
     # Replace my-github-org and open-sdg-data-starter as needed.
     json: 'https://armstat.github.io/sdg-data-armenia/staging/meta/all.json'
@@ -29,8 +29,10 @@ jekyll_get_data:
   - data: schema
     # Replace my-github-org and open-sdg-data-starter as needed.
     json: 'https://armstat.github.io/sdg-data-armenia/staging/meta/schema.json'
+  - data: reporting
+    json: 'https://armstat.github.io/sdg-data-armenia/staging/stats/reporting.json'
   - data: translations
-    json: 'https://open-sdg.github.io/sdg-translations/translations.json'
+    json: 'https://open-sdg.github.io/sdg-translations/translations-0.5.0.json'
 
 analytics:
   ga_prod: ''
@@ -60,8 +62,8 @@ exclude: [vendor, scripts, remotedata]
 # International Support
 # Eg name: Australia and adjective: Australian
 country:
-  name: Armenia
-  adjective: Armenian
+  name: custom.armenia
+  adjective: custom.armenian
 # Pages
 collections:
   pages:
@@ -94,6 +96,9 @@ languages:
   - am
   - ru
 
+# Point to remote location for goal images.
+goal_image_base: https://open-sdg.github.io/sdg-translations/assets/img/goals
+
 # This makes sure that all pages have a language.
 defaults:
   -
@@ -105,9 +110,11 @@ defaults:
 # Tell Jekyll to use the Remote Theme plugin.
 plugins:
   - jekyll-remote-theme
+  - jekyll-open-sdg-plugins
+  - jekyll-get-json
 
 # Tell the Remote Theme plugin to use the Open SDG platform (Jekyll theme).
-remote_theme: open-sdg/open-sdg
+remote_theme: open-sdg/open-sdg@0.5.0
 
 # Apply any custom CSS.
 custom_css:
