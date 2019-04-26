@@ -1,24 +1,24 @@
 ---
-title: Guidance
+title: РУКОВОДСТВО
 permalink: /ru/guidance/
 language: ru
 layout: page
 ---
 
-This page shares information for people using this website and for countries or localities wishing to take a copy of it.
+На этой странице публикуется информация для лиц, использующих данный веб сайт, а также для стран или населенных пунктов, желающих получить его копию.
 
-## The platform
+## Платформа
 
-This site is built and hosted using an open-source platform with 100% free software and services. For detailed documentation on the underlying platform, including information for developers, data providers, and policy makers, see [here](https://open-sdg.readthedocs.io).
+Этот сайт создан и размещен на открытой платформе со 100% бесплатным программным обеспечением и услугами. Подробную документацию по базовой платформе, включая информацию для разработчиков, поставщиков данных и разработчиков политик, [см. здесь](https://open-sdg.readthedocs.io).
 
-## Using this website
+## Как пользоваться этим сайтом
 
-Answers to some specific questions about the website are included in our [Frequently Asked Questions]({{ site.baseurl }}/faq/) page.
+Ответы на некоторые конкретные вопросы о веб сайте включены в нашу [Страницу часто задаваемых вопросов]({{ site.baseurl }}/faq/).
 
-The platform documentation includes information for people adding [data](https://open-sdg.readthedocs.io/en/latest/data-format/) and [metadata](https://open-sdg.readthedocs.io/en/latest/metadata-format/).
+Документация платформы содержит информацию для лиц, добавляющих [данные](https://open-sdg.readthedocs.io/en/latest/data-format/) и [метаданные](https://open-sdg.readthedocs.io/en/latest/metadata-format/).
 
-## Creating a copy of this website
+## Создание копии этого сайта
 
-Other countries or localities wishing to implement a version of this platform are welcome to do so for free.
+Другие страны или местности, желающие внедрить версию этой платформы, могут сделать это бесплатно.
 
-The platform documentation includes [technical information and instructions for developers](https://open-sdg.readthedocs.io/en/latest/quick-start/).
+Документация платформы включает [техническую информацию и инструкции для разработчиков](https://open-sdg.readthedocs.io/en/latest/quick-start/).
