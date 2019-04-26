@@ -1,24 +1,24 @@
 ---
-title: Guidance
+title: Ուղեցույց
 permalink: /am/guidance/
 language: am
 layout: page
 ---
 
-This page shares information for people using this website and for countries or localities wishing to take a copy of it.
+Այս էջում տրվում են տեղեկություններ այն մարդկանց համար, ովքեր օգտվում են այս վեբկայքից, ինչպես նաև երկրների կամ վայրերի համար, որոնք ցանկանում են ստանալ դրա օրինակը:
 
-## The platform
+## Հարթակը
 
-This site is built and hosted using an open-source platform with 100% free software and services. For detailed documentation on the underlying platform, including information for developers, data providers, and policy makers, see [here](https://open-sdg.readthedocs.io).
+Այս կայքը ստեղծվել է և գործում է բաց աղբյուրների հարթակի օգտագործումով՝ իր 100% անվճար համակարգչային ծրագրերով և ծառայություններով հանդերձ։ Բազային հարթակի մասին մանրամասն փաստաթղթերի, այդ թվում՝ մշակողների, տվյալներ տրամադրողների և քաղաքականություն մշակողների համար տե՛ս այստեղ։ 
 
-## Using this website
+## Այս հարթակից օգտվելը
 
-Answers to some specific questions about the website are included in our [Frequently Asked Questions]({{ site.baseurl }}/faq/) page.
+Վեբկայքի մասին որոշ մասնավոր հարցերի պատասխանները ներառված են մեր [Հաճախակի տրվող հարցերի]({{ site.baseurl }}/faq/) էջում:
 
-The platform documentation includes information for people adding [data](https://open-sdg.readthedocs.io/en/latest/data-format/) and [metadata](https://open-sdg.readthedocs.io/en/latest/metadata-format/).
+Հարթակի փաստաթղթերը ներառում են տեխնիկական տեղեկություններ՝ [տվյալներ ](https://open-sdg.readthedocs.io/en/latest/data-format/) և [մետատվյալներ](https://open-sdg.readthedocs.io/en/latest/metadata-format/) ավելացնող անձանց համար:
 
-## Creating a copy of this website
+## Այս վեբկայքի պատճենը ստեղծելը 
 
-Other countries or localities wishing to implement a version of this platform are welcome to do so for free.
+Այս հարթակի տարբերակն իրականացնելու ցանկություն ունեցող այլ երկրներ կամ վայրեր կարող են դա անել անվճար։
 
-The platform documentation includes [technical information and instructions for developers](https://open-sdg.readthedocs.io/en/latest/quick-start/).
+Հարթակի փաստաթղթերը ներառում են [տեխնիկական տեղեկություններ եւ ցուցումներ մշակողների համար](https://open-sdg.readthedocs.io/en/latest/quick-start/):
