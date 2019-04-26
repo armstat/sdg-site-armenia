@@ -1,12 +1,12 @@
 ---
-title: About
+title: О НАС
 permalink: /ru/about/
 language: ru
 layout: page
 ---
 
-This website is for disseminating SDG indicator data. We are at an Alpha stage in development, so the site is still 'work in progress'.
+Этот сайт предназначен для распространения данных по показателям ЦУР. Мы находимся на очень ранней стадии разработки, поэтому работа над проектом все еще продолжается.
 
-Other countries wishing to reuse this site's underlying platform are welcome to do so for free. Our [Guidance page]({{ site.baseurl }}/guidance/) highlights key information on how to do this, linking to detailed technical instructions available in the platform's [documentation](https://open-sdg.readthedocs.io). The [Center for Open Data Enterprise (CODE)](http://www.opendataenterprise.org/) can also provide guidance and support through their [SDG National Reporting Initiative](https://www.sdgreporting.org/).
+Другие страны, желающие повторно использовать базовую платформу этого сайта, могут сделать это бесплатно. На нашей [Странице по руководству]({{ site.baseurl }}/guidance/) представлена ключевая информация о том, как это сделать, и ссылки на подробные технические инструкции, доступные в [документации](https://open-sdg.readthedocs.io) платформы. [Центр открытых данных предприятия (CODE)](http://www.opendataenterprise.org/) также может предоставить руководство и поддержку через своей инициативы по [национальной отчетности по ЦУР](https://www.sdgreporting.org/).
 
-If you have any feedback on this website or SDG data, then please contact us at <a href="mailto:{{site.email_contacts.questions}}">{{site.email_contacts.questions}}</a>. The answers to some frequently asked questions are also available in our [FAQ]({{ site.baseurl }}/faq/).
+Если у вас будут какие-либо замечания об этом сайте или о данных ЦУР, пожалуйста, свяжитесь с нами по адресу: <a href="mailto:{{site.email_contacts.questions}}">{{site.email_contacts.questions}}</a>. Ответы на некоторые часто задаваемые вопросы также доступны в нашем [ЧЗВ (FAQ)]({{ site.baseurl }}/faq/).

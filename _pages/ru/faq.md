@@ -1,35 +1,35 @@
 ---
-title: Frequently Asked Questions (FAQ)
+title: Часто задаваемые вопросы (ЧЗВ)
 permalink: /ru/faq/
 language: ru
 layout: page
 ---
 
-## How do I suggest new or different data sources?
-If you have feedback on the data sources we have used or have suggestions for new data sources then please email us at <a href="mailto:{{site.email_contacts.questions}}">{{site.email_contacts.questions}}</a>.
+## Как предложить новые или другие источники данных?
+Если у вас есть какие-то соображения об источниках данных, которые мы использовали, или у вас есть предложения относительно новых источников данных, пожалуйста, напишите нам по адресу: <a href="mailto:{{site.email_contacts.questions}}">{{site.email_contacts.questions}}</a>.
 
-## What does the reporting status mean?
-We have used three different types of reporting status for an indicator, which are also colour coded:
+## Что значит статус отчетности?
+На одного показателя мы использовали три различных типа статуса отчетности, которые имеют также цветовой код:
 
-* Reported online (green) – as a minimum the headline national data for this indicator is available on this website but the data might not be fully disaggregated yet. We are continuing to source additional disaggregations.
-* Statistics in progress (amber) – we have found a suitable source of data for this indicator or relevant proxy at national level. We are currently quality assuring the data and preparing it for publication.
-* Exploring data sources (red) – we are still looking for a suitable data source for this indicator.
+* Отчеты делаются онлайн (зеленый) - Как минимум, на этом веб сайте доступно наименование национальных данных по этому показателю, но эти данные могут быть еще не полностью дезагрегированы. Мы продолжаем поиск источников для дополнительой дезагрегации.
+* Статистика в процессе (янтарный) - Мы нашли подходящий источник данных для этого показателя или соответствующего косвенного (прокси) показателя на национальном уровне. В настоящее время мы проверяем качество данных и готовим их к публикации.
+* Изучение источников данных (красный) - Мы все еще ищем подходящий источник данных для этого показателя.
 
-Where there is additional information about the status of indicator data collection and reporting, this will be displayed at the top of the indicator page.
+Если есть дополнительная информация о состоянии сбора данных и отчетности по показателю, это будет отображаться в верхней части страницы показателя.
 
-## How often will new data be added to this site?
-We will add data as soon as it has been sourced and checked. This includes new data as well as updates to data we have already published. We will continue to collect data from existing sources where possible, in cooperation with topic experts.
+## Как часто новые данные будут добавляться на этот сайт?
+Мы добавим данные, как только их источник будет найден и данные будут проверены. Это включает в себя новые данные, а также обновления данных, которые мы уже опубликовали. Мы продолжим сбор данных из существующих источников, где это возможно, в сотрудничестве с экспертами по темам.
 
-## What are you doing to fill data gaps?
-For some indicators, although we may have data at the national level, our existing data sources don’t always allow us to disaggregate by all main groups.
+## Что вы делаете, чтобы заполнить пробелы в данных?
+По некоторым показателям, хотя у нас могут быть данные на национальном уровне, наши существующие источники данных не всегда позволяют дезагрегировать данные по всем основным группам.
 
-This means we need to look for new data sources, link existing ones, or model data.
+Это означает, что нам нужно искать новые источники данных, связывать существующие или моделировать данные.
 
-## How accessible is this website?
-Our aim is to make this website as accessible and usable as possible for every user. We are working towards meeting AA level of the [Web Content Accessibility Guidelines (WCAG 2.0)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag-20).
+## Насколько доступен этот веб сайт?
+Наша цель - сделать этот сайт максимально доступным и удобным для каждого пользователя. Мы работаем над достижением уровня AA [Руководства по доступности веб-контента (WCAG 2.0)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag-20).
 
-## What browsers can I use to view this website?
-Our website works with most of the latest versions of the commonly used browsers. There are some issues with using the site on older versions of browsers eg IE8 and we are working to fix these.
+## Какие браузеры я могу использовать для просмотра этого сайта?
+Наш веб сайт работает с большинством часто используемых последних версий браузеров. Существуют некоторые проблемы с использованием сайта более старыми версиями браузеров, например, IE8, и мы работаем над их устранением.
 
-## Can other countries copy this website?
-Yes. This site is built and hosted using 100% free software and services, so other countries and localities can freely and easily reuse our code. Technical guidance on implementing this platform is available [here](https://open-sdg.readthedocs.io). Countries and localities exploring how to report their own SDGs data can also get support from the [Center for Open Data Enterprise (CODE)](http://www.opendataenterprise.org/) through their [SDG National Reporting Initiative](https://www.sdgreporting.org/).
+## Могут ли другие страны скопировать этот сайт?
+Да. Этот сайт создан и предназначен для предоставления 100% бесплатного программного обеспечения и услуг, с тем чтобы другие страны и местности могли свободно и легко использовать наш код. Техническое руководство по использованию этой платформы доступно [здесь](https://open-sdg.readthedocs.io). Страны и местности, изучающие способы представления своих  данных ЦУР, также могут получить поддержку от [Центра открытых данных (CODE)](http://www.opendataenterprise.org/) через свою [Инициативу по национальной отчетности ЦУР](https://www.sdgreporting.org/).

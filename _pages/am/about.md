@@ -1,5 +1,5 @@
 ---
-title: About
+title: Մեր մասին
 permalink: /am/about/
 language: am
 layout: page
