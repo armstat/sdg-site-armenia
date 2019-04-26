@@ -1,35 +1,35 @@
 ---
-title: Frequently Asked Questions (FAQ)
+title: Հաճախակի տրվող հարցեր (ՀՏՀ)
 permalink: /am/faq/
 language: am
 layout: page
 ---
 
-## How do I suggest new or different data sources?
-If you have feedback on the data sources we have used or have suggestions for new data sources then please email us at <a href="mailto:{{site.email_contacts.questions}}">{{site.email_contacts.questions}}</a>.
+## Ինչպե՞ս կարելի է առաջարկել տվյալների նոր կամ այլ աղբյուրներ:
+Եթե դիտողություններ ունեք ունեք մեր օգտագործած տվյալների աղբյուրների վերաբերյալ կամ առաջարկում եք նոր տվյալների աղբյուրներ, ապա խնդրում ենք գրել այս հասցեով՝  <a href="mailto:{{site.email_contacts.questions}}">{{site.email_contacts.questions}}</a>.
 
-## What does the reporting status mean?
-We have used three different types of reporting status for an indicator, which are also colour coded:
+## Ի՞նչ է նշանակում հաշվետու կարգավիճակ:
+Մեկ ցուցանիշի համար օգտագործել ենք երեք տարբեր տեսակի հաշվետվության կարգավիճակ, որոնք ունեն նաև գունային ծածկագրում՝
 
-* Reported online (green) – as a minimum the headline national data for this indicator is available on this website but the data might not be fully disaggregated yet. We are continuing to source additional disaggregations.
-* Statistics in progress (amber) – we have found a suitable source of data for this indicator or relevant proxy at national level. We are currently quality assuring the data and preparing it for publication.
-* Exploring data sources (red) – we are still looking for a suitable data source for this indicator.
+* Հաղորդումները կատարվում են առցանց (կանաչ) - Առնվազն այս ցուցանիշի տվյալների ազգային անվանումը դրված է կայքում, սակայն հնարավոր է տվյալները դեռ լիովին տարանջատված չեն: Մենք շարունակում ենք ստանալ լրացուցիչ տարանջատումներ:
+* Վիճակագրությունը մշակման ընթացքում է (սաթի գույն) - Մենք գտել ենք այս ցուցանիշի տվյալների համապատասխան աղբյուր կամ ազգային մակարդակում հարմար փոխարինող ցուցանիշ: Այժմ ապահովում ենք տվյալների որակական կողմը և պատրաստվում ենք դրանց հրապարակմանը:
+* Տվյալների աղբյուրների հետազոտություն (կարմիր) - Մենք այս ցուցանիշի համար դեռ փնտրում ենք տվյալների համապատասխան աղբյուր:
 
-Where there is additional information about the status of indicator data collection and reporting, this will be displayed at the top of the indicator page.
+Եթե կա լրացուցիչ տեղեկություն ցուցանիշի տվյալների հավաքագրման և հաղորդման կարգավիճակի վերաբերյալ, ապա այն հայտնվում է ցուցանիշի էջի վերին մասում:
 
-## How often will new data be added to this site?
-We will add data as soon as it has been sourced and checked. This includes new data as well as updates to data we have already published. We will continue to collect data from existing sources where possible, in cooperation with topic experts.
+## Ի՞նչ հաճախականությամբ են նոր տվյալներ ավելացվում այս կայքում:
+Մենք կավելացնենք տվյալներ, դրանց աղբյուրը գտնելուց և ստուգելուց հետո: Սա ներառում է նոր տվյալներ, ինչպես նաև արդեն հրապարակված տվյալների թարմացումներ: Մենք կշարունակենք տվյալներ հավաքագրել գոյություն ունեցող աղբյուրներից, եթե հնարավոր է, համագործակցելով թեմատիկ փորձագետների հետ:
 
-## What are you doing to fill data gaps?
-For some indicators, although we may have data at the national level, our existing data sources don’t always allow us to disaggregate by all main groups.
+## Ի՞նչ եք անում տվյալների բացերը լրացնելու համար:
+Որոշ ցուցանիշների համար, որոնց դեպքում կարող ենք ունենալ տվյալներ ազգային մակարդակում, մեր առկա աղբյուրները միշտ չէ, որ թույլ են տալիս մեզ տվյալները տարանջատել ըստ բոլոր հիմնական խմբերի:
 
-This means we need to look for new data sources, link existing ones, or model data.
+Սա նշանակում է, որ մենք պետք է փնտրենք նոր տվյալների աղբյուրներ, փոխկապակցել գոյություն ունեցողները կամ մոդելավորել տվյալները:
 
-## How accessible is this website?
-Our aim is to make this website as accessible and usable as possible for every user. We are working towards meeting AA level of the [Web Content Accessibility Guidelines (WCAG 2.0)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag-20).
+## Որքանո՞վ է հասանելի այս վեբկայքը:
+Մեր նպատակն է այս կայքը դարձնել հասանելի և օգտագործելի յուրաքանչյուր օգտատիրոջ համար: Մենք աշխատում ենք [Համացանցի բովանդակության հասանելիության ուղենիշների (WCAG 2.0)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag-20) AA մակարդակը բավարարելու ուղղությամբ:
 
-## What browsers can I use to view this website?
-Our website works with most of the latest versions of the commonly used browsers. There are some issues with using the site on older versions of browsers eg IE8 and we are working to fix these.
+## Ի՞նչ բրաուզերներ կարող եմ օգտագործել այս վեբկայքը դիտելու համար:
+Մեր վեբկայքն աշխատում է բրաուզերների հիմնականում օգտագործվող վերջին տարբերակների մեծ մասով: Կան որոշ խնդիրներ՝ կապված կայքի օգտագործման համար բրաուզերների ավելի հին տարբերակների հետ, օրինակ IE8, և մենք աշխատում ենք վերացնել դրանք:
 
-## Can other countries copy this website?
-Yes. This site is built and hosted using 100% free software and services, so other countries and localities can freely and easily reuse our code. Technical guidance on implementing this platform is available [here](https://open-sdg.readthedocs.io). Countries and localities exploring how to report their own SDGs data can also get support from the [Center for Open Data Enterprise (CODE)](http://www.opendataenterprise.org/) through their [SDG National Reporting Initiative](https://www.sdgreporting.org/).
+## Կարո՞ղ են այլ երկրներ պատճենել այս կայքը:
+Այո: Այս կայքը կառուցվել է և նախատեսված է 100% անվճար ծրագրային ապահովում և ծառայություններ տրամադրելու համար, որպեսզի այլ երկրներ և վայրեր կարողանան ազատորեն ու հեշտությամբ օգտվել մեր ծածկագրից: Այս հարթակի իրականացման վերաբերյալ տեխնիկական ուղեցույցը հասանելի է [այստեղ](https://open-sdg.readthedocs.io): Այն երկրները և վայրերը, որոնք ուսումնասիրում են իրենց ԿԶՆ տվյալների հաղորդման ուղիներ, կարող են օգտվել  [Բաց տվյալների ձեռնարկության կենտրոնի (CODE)](http://www.opendataenterprise.org/) աջակցությունից՝ իրենց [ԿԶՆ ազգային հաշվետվողականության նախաձեռնության միջոցով](https://www.sdgreporting.org/):
