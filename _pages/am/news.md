@@ -1,6 +1,6 @@
 ---
 layout: news
-title: News & Events
+title: Նորություններ և իրադարձություններ
 permalink: /am/news/
 language: am
 ---
