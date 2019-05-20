@@ -1,8 +1,20 @@
 sex: Sex
-female: Female
-male: Male
-number: Number
+female: female
+male: male
+number: number
+rural: rural
+urban: urban
 aged 0-17 years: aged 0-17 years
 aged 18-39 years: aged 18-39 years
 aged 40-62 years: aged 40-62 years
 aged 63 and older: aged 63 and older
+economically active population: economically active population
+employed: employed
+wage employed: wage employed
+self-employed: self-employed
+other employed: other employed
+unemployment: unemployment
+economically inactive population: economically inactive population
+pensioners: pensioners
+students: students
+other inactive population: other inactive population
