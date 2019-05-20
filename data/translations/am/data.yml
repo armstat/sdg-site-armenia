@@ -1,8 +1,22 @@
-sex: Սեքս
+sex: Սեռ
 female: իգական
-male: Արական
-number: Թիվ
+male: արական
+number: թիվ
+urban: քաղաք
+rural: գյուղ
 aged 0-17 years: 0-17 տարեկան
 aged 18-39 years: 18-39 տարեկան
 aged 40-62 years: 40-62 տարեկան
 aged 63 and older: 63 և բարձր տարիքի
+aged 0-16 years: 0-16 տարեկան
+aged 17-65 years: 17-65 տարեկան
+economically active population: տնտեսապես ակտիվ բնակչություն
+employed: զբաղվածներ
+wage employed: վարձու աշխատողներ
+self-employed: ինքնազբաղված
+other employed: այլ զբաղվածներ
+unemployment: գործազուրկներ
+economically inactive population: տնտեսապես ոչ ակտիվ բնակչություն
+pensioners: թոշակառուներ
+students: ուսանողներ
+other inactive population: այլ ոչ ակտիվ բնակչություն
