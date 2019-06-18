@@ -1,5 +1,173 @@
-sex: секс
-female: женский
+sex: Пол
+age: Возраст
+location: Расположение
+employment status: Рабочий статус
+disaster type: тип бедствия:
+education type: тип образования:
+transportation type: вид транспорта
+female: женщина
 male: мужчина
-number: Число
-
+number: количество
+rural: село
+urban: город
+total: всего
+children: дети 
+aged 0-17 years: 0-17 лет
+aged 5-11 years: 5-11 лет
+aged 12-15 years: 12-15 лет
+aged 16-17 years: 16-17 лет
+aged 18-39 years: 18-39 лет
+aged 40-62 years: 40-62 лет
+aged 63 and older: 63 и более лет
+aged 65 and older: 65 и более лет
+aged 0-16 years: 0-16 лет
+aged 17-65 years: 17-65 лет
+aged 0-4 years: 0-4 лет
+aged 5-9 years: 5-9 лет
+aged 10-14 years: 10-14 лет
+aged 15-19 years: 15-19 лет
+aged 20-24 years: 20-24 лет
+aged 0-5 years: 0-5 лет
+aged 6-17 years: 6-17 лет
+aged 18-64 years: 18-64 лет
+aged 15 years: 15 лет
+aged 16-17 years: 16-17 лет
+aged 51 - 55 years: 51-55 лет
+aged 56 - 62 years: 56-62 лет
+15-29 age: 15-29 лет
+15-19 age: 15-29 лет
+20-24 age: 20-24 лет
+15-24 age: 15-24 лет
+25-29 age: 25-29 лет
+15-75 age: 15-75 лет
+with disabilities: с ограниченными возможностями?
+total to the total number of children with disabilities (aged 0-17 years): Всего  количеству детей с ограниченными возможностями (в возрасте 0-17 лет)?
+economically active population: экономически активное население
+employed: занятые
+wage employed: наемные работники
+self-employed: самозанятые
+other employed: другие рабочие
+unemployment: безработные
+economically inactive population: экономически не активное население
+pensioners: пенсионеры
+students: студенты
+other inactive population: другое не активное население
+age-related: возрастные
+on privileged terms: на льготных условиях
+up to 51 years old: до 51 лет
+long-term service: за выслугу лет
+partially: частичные
+disability: по инвалидности
+in case of losing a breadwinner: в случае потери кормильца
+by other laws: установленные по другим законам
+related to military service: связанная с военной службой
+old age: по старости
+up to 1 year old: до 1 года
+aged 1-6 years: 1-6 лет
+aged 7-9 years: 7-9 лет
+aged 10-15 years: 10-15 лет
+aged 16-17 years: 16-17 лет
+total to the population of respective age: Всего для населения соответствующего возраста?
+total to children aged 0-17 years with disabilities: тотально детей в возрасте 0-17 лет с ограниченными возможностями?
+up to 6 months: до 6 месяцов
+from 6 months to 1 year: с 6 месяцев до 1 года
+aged 1-5 years: 1-5 лет
+aged 6-9 years: 6-9 лет
+child with two parents: Ребенок, имеющий обоих родителей
+single mother child: Ребенок матери одиночки
+left without parental care: Ребенок, лишенный родительской опеки
+other: другие
+natural disaster: стихийные бедствия
+technical disaster: антропогенные бедствия
+social-domestic disaster: социально- бытовые бедствия
+education: Образование
+health: Здравоохранение
+social protection: Социальная защита
+arable land: пашня
+sown areas: посевные площади
+perennial plants: многолетние насаждения
+wasting: недоедание
+overweight: переедание
+0-28 days: 0-28 дней
+0-7 days: 0-7 дней
+cardiovascular disease: сердечно-сосудистые заболевания
+cancer: рак
+diabetes: сахарный диабет
+chronic respiratory disease: хроническая респираторная болезнь
+any contraceptive method: любой метод контрацепции
+modern contraceptive methods: современные методы контрацепции
+infectious and parasitic diseases: инфекционные и паразитарные заболевания
+physicians: врачи
+paramedical personnel: средний медицинский персонал
+junior medical personnel: младший медицинский персонал
+electricity: электричество
+proportion of schools connected to the Internet: доля школ, подключенных к Интернету
+number of teachers per computer: количество учителей на компьютер
+water supply: водоснабжение?
+sewerage: канализация?
+primary: начальная
+lower secondary: основная
+high: высшее
+secondary: среднее
+preliminary vocational:   начальное профессиональное (ремесленное)
+middle vocational: среднепрофессиональное
+bachelor: высшее образование первой ступени
+master: высшее образование второй ступени
+pre-specialized (vocational) education: Начальное профессиональное (ремесленное)
+specialized secondary education: среднепрофессиональное
+specialized high education, first stage (bachelor's degree): высшее образование первой ступени (бакалавриат)
+post-graduate education, second stage (master's degree): высшее образование второй ступени (магистратура)
+physical violence: физическое насилие
+sexual violence: сексуальное насилие
+alone: самостоятельно
+jointly with someone else: совместно с кем-то еще
+alone and jointly with someone else: самостоятельно и совместно с кем-то еще
+national parliaments: национальные парламенты
+local governments: местное управление
+before age 15: до 15 лет
+before age 18: до 18 лет
+domestic material consumption: материальное потребление
+domestic material consumption per capita: внутреннее материальное потребление на душу населения
+domestic material consumption per GDP: внутреннее материальное потребление к ВВП
+passenger volume: объем  пассажироперевозок
+railway transport: железнодорожный транспорт
+road transport: автомобильный транспорт
+of which  passenger taxi: из коих: легковой  таксомоторный
+air transport: воздушный  транспорт
+electricity transport:  электротранспорт
+freight volumes: объем грузоперевозок
+pipelines: магистральный трубопроводный транспорт
+growth rates of household expenditure or income per capita among the bottom 40 per cent of the population: Расходы домохозяйств или рост доходов на душу населения среди самых низких 40 процентов населения
+growth rates of household expenditure or income per capita among the total population: Расходы домохозяйств или рост доходов на душу населения среди всего населения
+high plant species registered in the Red Book of RA: Высшие виды растений, занесенные в Красную книгу РА
+included in the specially protected natural areas: включены в особо охраняемые природные территории
+registered in the Red Book of RA: занесенные в Красную книгу РА
+included in the specially protected natural areas: включены в особо охраняемые природные территории
+tax incomes and duties: Налоги и пошлины
+other incomes: Прочие доходы
+official grants: Официальные трансферты
+equal to or greater than 256 kbit/s and less than 2 Mbit/s: равно или выше скорости 256 Кбит/с и менее 2 Мбит/с
+equal to or greater than 2 Mbit/s and less than 10 Mbit/s: равно или выше скорости 2 Мбит/с и менее 10 Мбит/с
+equal to or greater than 10 Mbit/s: равно или выше скорости 10 Мбит/с
+have conducted at least one population and housing census in the last 10 years: провели по крайней мере одну перепись населения и жилищного фонда за последние 10 лет
+have achieved 100 per cent birth registration: достигли 100-процентной регистрации рождений
+have achieved 80 per cent death registration: достигли 80 процентов регистрации смерти
+per capita: на душу населения
+proportion of GDP: доля ВВП
+persons: человек
+per 100,000 population: на 100 000 населения
+per million population: на миллион населения
+per 1000 uninfected population: на 1000 неинфицированного населения
+per 1000 life births: на 1000 живорожденных
+per 100 000 life births: на 100 000 живорожденных
+per 1,000 women: на 1000 женщин
+per 1,000 population: на 1000 человек населения
+cases: случаи
+number: количество
+liter: литр
+kg per capita: кг на душу населения
+kg/mln.dram: кг/млн.драм
+mln. USD: млн. долларов США
+USD: долларо
+mln. AMD: млн.драм
+mole - H - ion / liter: мол-H - ион/литр
