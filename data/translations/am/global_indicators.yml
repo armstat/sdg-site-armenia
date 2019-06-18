@@ -1,146 +1,146 @@
 1.3.1.a:
-  title: Proportion of registered disabled people to the total number of population at the end of the year
+  title: Հաշվառված հաշմանդամություն ունեցող անձանց մասնաբաժինը տարեվերջին բնակչության ընդհանուր թվաքանակից
 1.3.1.b:
-  title: Children with disabilities from diseases (aged 0-17 years)
+  title: Հիվանդություններից հաշմանդամ դարձած երեխաներ (0-17 տարեկան)
 1.3.1.c:
-  title: Proportion of pensioners to the total number of population at the end of the year
+  title: Կենսաթոշակառուների մասնաբաժինը տարեվերջին բնակչության ընդհանուր թվաքանակից
 1.3.1.d:
-  title: Ratio of elderly pensioners.               Ratio of age pensioners and the retirement age stipulated by law and aged population
+  title: "Տարեց կենսաթոշակառուների հարաբերակցություն: Տարիքային կենսաթոշակառուների և օրենքով նախատեսված կենսաթոշակի տարիքի և բարձր տարիքի  բնակչության հարաբերակցությունը"
 1.3.1.e:
-  title: Proportion of families receiving family benefits to households
+  title: Ընտանեկան նպաստ ստացող ընտանիքների մասնաբաժինը տնային տնտեսություններից
 1.3.1.f:
-  title: Proportion of families receiving social benefits to households
+  title: Սոցիալական նպաստ ստացող ընտանիքների մասնաբաժինը տնային տնտեսություններից
 1.3.1.g:
-  title: Proportion of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year
+  title: Ծերության, հաշմանդամության և կերակրողին կորցնելու դեպքում նպաստառուների մասնաբաժինը տարեվերջին բնակչության ընդհանուր թվաքանակից
 1.3.1.h:
-  title: Children of orphans (aged 0-17 years) at the end of the year
+  title: Մանկատների երեխաներ (0-17 տարեկան), տարեվերջին
 1.3.1.i:
-  title: Children who return to relatives from orphanages (aged 0-17 years)
+  title: Մանկատներից հարազատների մոտ վերադարձած երեխաներ (0-17 տարեկան)
 1.3.1.j:
-  title: Children with disabilities living in orphanages (aged 0-17 years) at the end of the year
+  title: Մանկատներում բնակվող հաշմանդամ երեխաներ (0-17 տարեկան), տարեվերջին
 1.3.1.ja:
-  title: Adopted children (aged 0-17 years)
+  title: Որդեգրված երեխաներ (0-17 տարեկան)
 1.3.1.jb:
-  title: Adopted children by social groups (aged 0-17 years)
+  title: Որդեգրված երեխաներն ըստ սոցիալական խմբերի (0-17 տարեկան)
 1.3.1.jc:
-  title: Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year
+  title: Չաշխատող անձին տրվող մայրության նպաստ ստացող նպաստառուների թվաքանակը տարեվերջին
 1.4.1.a:
-  title: Centralized water supply
+  title: Կենտրոնացված ջրամատակարարում
 1.4.1.b:
-  title: Centralized sewerage system
+  title: Ջրահեռացման կենտրոնացված համակարգ
 1.5.1.a:
-  title: Number of deaths,  temporarily evacuated and directly affected persons attributed to disasters per 100,000 population  by types of disasters
+  title: Աղետների պատճառով մահվան դեպքերի, անհետ կորածների, տուժածների թիվը 100 000 բնակչի հաշվով ըստ աղետների տեսակի
 3.1.1.a:
-  title: Maternal mortality ratio (average three-year indicator)
+  title: Մայրական մահերը 100 000 կենդանածնի հաշվով (միջին եռամյա ցուցանիշ)
 3.2.2.a:
-  title: Infant mortality rate
+  title: Մանկական մահացության ցուցանիշը
 3.3.1.a:
-  title: HIV infection transmission from HIV-infected mothers with non-breastfeeding to child
+  title: Կրծքով չկերակրող ՄԻԱՎ վարակ ունեցող մայրերից երեխային ՄԻԱՎ-ի փոխանցման ցուցանիշ
 3.3.1.b:
-  title: Percentage of people living with HIV, who know their  status
+  title: Իրենց կարգավիճակի մասին իմացող ՄԻԱՎ-ով ապրող մարդկանց տոկոսը
 3.3.1.c:
-  title: Percentage of people living with HIV, who know their  status, who receive ARV treatment
+  title: Իրենց կարգավիճակի մասին իմացող ՄԻԱՎ-ով ապրող մարդկանց տոկոսը, որոնք ստանում են ՀՌՎ բուժում
 3.3.1.d:
-  title: Percentage of HIV patients, who receive ARV   treatment, who have unrecognized level of viral load (VL)
+  title: ՀՌՎ բուժում ստացող ՄԻԱՎ վարակով պացիենտների տոկոսը, որոնք ունեն վիրուսային ծանրաբեռնվածության (ՎԾ) չհայտնաբերվող մակարդակ
 3.3.2.a:
-  title: Multi-drug resistant tuberculosis morbidity indicator (per 100,000 population)
+  title: Բազմադեղակայուն տուբերկուլյոզով հիավանդացության ցուցանիշ (100 000 բնակչի հաշվով) 
 3.3.3.a:
-  title: Number of local cases in malaria per year
+  title: Մալարիայի տեղական դեպքերի թիվը մեկ տարվա ընթացքում
 3.3.4.a:
-  title: 0-18 years old  patients with acute hepatitis B  ( per 100,000 population)
+  title: 0-18 տարեկան  սուր հեպատիտ Բ-ով հիվանդացությունը (100 000 բնակչի հաշվով)
 3.3.4.b:
-  title: Coverage of 3 doses of vaccine with hepatitis B alone or combined ingredient with 95 and more ingredients
+  title: Հեպատիտ   Բ-ով առանձին կամ համակցված բաղադրիչով 3 դեղաչափ պատվաստումներումների ընդգրկվածություն 95 և ավել ընդգծված բաղադրիչով
 3.3.5.a:
-  title: Number of patients with leishmaniasis
+  title: Լեյշմանիոզով հիվանդների թիվ
 3.3.5.b:
-  title: Case of death from leishmaniosis
+  title: Լեյշմանիոզից մահվան դեպքեր 
 3.5.1.a:
-  title: The number of patients suffering from drug addiction
+  title: Թմրամոլության տառապող հիվանդների թիվը
 3.7.2.a:
-  title: Adolescent birth rate (aged 15-17 years) per 1,000 women in that age group
+  title: Դեռահասների (15-17 տարեկան) ծնելիությունը տվյալ տարիքային խմբի 1 000 կնոջ հաշվով
 3.8.1.a:
-  title: Providing antenatal care and care by qualified specialis
+  title: Որակավորված մասնագետի կողմից նախածննդյան հսկողության և խնամքի ապահովում
 3.8.1.b:
-  title: At least one ultrasound examination during pregnancy
+  title: Հղիության ընթացքում առնվազն մեկ ուլտրաձայնային հետազոտության իրականացում
 3.8.1.c:
-  title: During the first two days after birth, the mother's postnatal check
+  title: Ծննդաբերությունից հետո առաջին երկու օրվա ընթացքում մոր հետծննդյան ստուգում
 3.8.1.d:
-  title: During the first two days after birth, the newborn testing
+  title: Ծննդաբերությունից հետո առաջին երկու օրվա ընթացքում նորածնի ստուգում
 3.9.1.a:
-  title: Number of deaths caused by registered social-domestic toxication cases
+  title: Գրանցված սոցիալ-կենցաղային թունավորման դեպքերից զոհերի թվաքանակը 
 3.b.1.a:
-  title: Indicator of coverage  in vaccines among targeted quantities, 1 year of age
+  title: Պատվաստումներում ընգրվածության ցուցանիշ նպատակային քանակակազմերի շրջանում 1տ
 3.b.1.b:
-  title: Indicator of coverage  in vaccines among targeted quantities, 2 years of age
+  title: Պատվաստումներում ընգրվածության ցուցանիշ նպատակային քանակակազմերի շրջանում 2տ
 3.b.1.c:
-  title: Indicator of coverage  in vaccines among targeted quantities, 7 years of age
+  title: Պատվաստումներում ընգրվածության ցուցանիշ նպատակային քանակակազմերի շրջանում 7տ
 3.c.1.a:
-  title: Number of physicians conducting professional activities per 10,000 population
+  title: 10 000 բնակչին ընկնող մասնագիտական գործունեություն իրականացնող մասնագետների թվաքանակի ցուցանիշ
 4.1.1b:
-  title: Proportion of children at the end of primary achieving at least a minimum proficiency level in  (i) reading and (ii) mathematics
+  title: Երեխաների մասնաբաժինը տարրական դպրոցն ավարտելիս, ովքեր ձեռք են բերել առնվազն գիտելիքների նվազագույն մակարդակ (i)ընթերցանությունից և (ii) մաթեմատիկայից 
 4.1.1c:
-  title: Proportion of children at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics
+  title: Երեխաների մասնաբաժինը հիմնական դպրոցն ավարտելիս, ովքեր ձեռք են բերել առնվազն գիտելիքների նվազագույն մակարդակ (i) ընթերցանությունից և (ii) մաթեմատիկայից
 4.2.2.a:
-  title: Gross enrolment  of children 3 -5 years of age in pre-primary education
+  title: 3-5 տարեկան երեխաների համախառն ընդգրկվածությունը նախադպրոցական հաստատություններում
 4.3.1.a:
-  title: Gross Enrollment Ration in general educatioin
+  title: Հանրակրթությունում համախառն ընդգրկվածության ցուցանիշը
 4.4.1.a:
-  title: Number of pupils per computer in general education schools
+  title: Հանրակրթական դպրոցների աշակեևտների թվաքանակը 1 համակարգչի հաշվով 
 4.5.1.a:
-  title: Gender parity index
+  title: Սեռային հավասարության ցուցանիշ
 4.6.1.a:
-  title: Literacy rate among population aged from 10-24  years old
+  title: Բնակչության գրագիտության մակարդակը 10-24 տարիքային խմբում
 4.c.1.a:
-  title: Proportion of trained teachers
+  title: Վերապատրատված ուսուցիչների մասնաբաժինը 
 5.6.1.a:
-  title: Women currently married or in union that are using any type of contraception, only Condition 3 "She can make a decision about healthcare either by herself or jointly" fulfilled
+  title: Կանայք, որոնք ներկայում ամուսնացած են կամ միության մեջ են, ովքեր օգտագործում են ցանկացած տեսակի հակաբեղմնավորիչ միջոց, միայն կատարված է պայման 3 «Նա կարող է առողջապահության մասին որոշումներ կայացնել ինքնուրույն կամ համատեղ»
 5.a.1.a.a:
-  title: Proportion of households with ownership over agricultural land
+  title: Գյուղատնտեսական հողերի նկատմամբ սեփականության իրավունք ունեցող տնային տնտեսությունների տեսակարար կշիռը
 5.a.1.b.a.1:
-  title: Proportion of women age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed
+  title: Գյուղատնտեսական  կամ ոչ գյուղատնտեսական հողերի նկատմամբ սեփականության իրավունք (միայնակ, մեկ ուրիշի հետ համատեղ կամ միայնակ և մեկ ուրիշի հետ համատեղ) ունեցող 15-49  տարեկան կանանց մասնաբաժինը, որոնք ունեն սեփականության իրավունքը հաստատող փաստաթուղթ և նրանց անունը նշված է փաստաթղթում
 5.a.1.b.a.2:
-  title: Proportion of men age 15-49 with ownership (alone, jointly with someone else or both alone and jointly with someone else) over agricultural or non-agricultural land, who have a title deed and their name is listed on the title deed
+  title: Գյուղատնտեսական կամ ոչ գյուղատնտեսական հողերի նկատմամբ սեփականության իրավունք (միայնակ, մեկ ուրիշի հետ համատեղ կամ միայնակ և մեկ ուրիշի հետ համատեղ) ունեցող 15-49  տարեկան տղամարդկանց մասնաբաժինը, որոնք ունեն սեփականության իրավունքը հաստատող փաստաթուղթ և նրանց անունը նշված է փաստաթղթում
 5.b.1.a:
-  title: Proportion of households who own a mobile telephone
+  title: Բջջային հեռախոս ունեցող տնային տնտեսությունների համամասնությունը 
 6.1.1.a:
-  title: Proportion of  households with centralized water supply
+  title: Կենտրոնացված ջրամատակարարմամբ տնային տնտեսությունների տեսակարար կշիռը
 6.2.1.a:
-  title: Proportion of population using safely managed sanitation facility
+  title: Բնակչության մասնաբաժինը, որոնք օգտվում են անվտանգ սանիտարական հարմարություններից
 6.2.1.b:
-  title: Proportion of population using hand-washing facility with soap and water
+  title: Բնակչության մասնաբաժինը, որոնք օգտվում են օճառով և ջրով ձեռքերը լվանալու հարմարություններից
 6.2.1.c:
-  title: Proportion of population using sanitary-hygienic services defined by sanitation norms
+  title: Բնակչության մասնաբաժինը, որոնք օգտվում են սանիտարական նորմերով սահմանված սանիտարահիգիենիկ ծառայություններից
 6.3.1.a:
-  title: Proportion of insufficiently treated wastewater
+  title: Ոչ բավարար մաքրված կեղտաջրերի համամասնությունը
 7.1.2.a:
-  title: Proportion of households with primary reliance on clean fuels and technology
+  title: Մաքուր վառելիքից և տեխնոլոգիայից  առաջնային կախվածություն ունեցող տնային տնտեսությունների մասնաբաժինը
 8.5.1.a:
-  title: Average Monthly Nominal Wages / Salaries
+  title: Միջին ամսական անվանական աշխատավարձն ըստ սեռի
 10.7.2.a:
-  title: Percentage of returned migrants who undertook paid work during the last 7 days
+  title: Վերադարձած միգրանտների %-ը, որոնք անցել են վճարովի աշխատանքի վերջին 7 օրերի ընթացքում
 10.7.2.b:
-  title: Proportion of individual asylum applications granted
+  title: Ապաստանի համար բավարարված անհատական դիմումների համամասնությունը
 11.5.1.a:
-  title: Number of deaths,  temporarily evacuated and directly affected persons attributed to disasters per 100,000 population  by types of disasters
+  title: Աղետների պատճառով մահվան դեպքերի, անհետ կորածների, տուժածների թիվը 100 000 բնակչի հաշվով ըստ աղետների տեսակի
 12.3.1.a:
-  title: Food loss
+  title: Պարենի կորուստ 
 13.1.1.a:
-  title: Number of deaths,  temporarily evacuated and directly affected persons attributed to disasters per 100,000 population  by types of disasters
+  title: Աղետների պատճառով մահվան դեպքերի, անհետ կորածների, տուժածների թիվը 100 000 մարդու հաշվով ըստ աղետների տեսակի
 14.3.1.a:
-  title: Average Lake Sevan acidity (pH) measured at agreed suite of representative sampling stations
+  title: Սևանա լճի ջրի միջին թթվայնությունը (pH)՝ չափված ներկայացուցչական նմուշառման կայանների համաձայնեցված հավաքակազմում
 14.5.1.a:
-  title: Coverage of protected water areas in relation to lakes and reservoirs
+  title: Հատուկ պահպանվող ջրային տարածքների ծածկույթն  ընդհանուր ջրային տարածքների համեմատ
 14.a.1.a:
-  title: Budget allocated to research and complex protection related to lake Sevan
+  title:  Բյուջետային հատկացումները Սևանա լճի հետազոտություններին  և համալիր պահպանությանը
 15.5.1.a.1:
-  title: Registered vertebrate and invertebrate species, of which
+  title: Հաշվառված ողնաշարավոր և անողնաշար կենդանիների տեսակներ, որից
 15.5.1.a.2:
-  title: Registered high and low plant species, of which
+  title: Հաշվառված բարձրակարգ և ստորակարգ բույսերի տեսակներ, որից
 16.1.1.a:
-  title: Number of homicide cases per 100,000 population
+  title: Սպանությունների թիվը 100 000 բնակչի հաշվով
 17.1.1.a:
-  title: Total central government revenue as a proportion of GDP, by source, including
+  title: Ընդհանուր կենտրոնական պետական  եկամուտները (ըստ աղբյուրի)՝ արտահայտված որպես ՀՆԱ-ի համամասնություն՝ ըստ աղբյուրի, ներառյալ
 17.3.1.a:
-  title: Foreign direct investments (FDI)
+  title: Արտաքին ուղղակի ներդրումները (ԱՈւՆ)
 17.4.1.a:
-  title: External debt service as percentage of exports goods and services
+  title: Արտաքին պարտքի սպասարկումը՝ արտահայտված որպես ապրանքների և ծառայությունների արտահանումների տոկոս
