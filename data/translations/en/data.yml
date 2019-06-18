@@ -2,12 +2,17 @@ sex: Sex
 age: Age
 location: Location
 employment status: Employment status
+disaster type: disaster type
+education type: education type
+transportation type: transportation type
 female: female
 male: male
 number: number
 rural: rural
 urban: urban
 total: total
+children: children
+многолетние насаждения
 aged 0-17 years: aged 0-17 years
 aged 5-11 years: aged 5-11 years
 aged 12-15 years: aged 12-15 years
@@ -148,3 +153,21 @@ equal to or greater than 10 Mbit/s: equal to or greater than 10 Mbit/s
 have conducted at least one population and housing census in the last 10 years: have conducted at least one population and housing census in the last 10 years
 have achieved 100 per cent birth registration: have achieved 100 per cent birth registration
 have achieved 80 per cent death registration: have achieved 80 per cent death registration
+per capita: per capita
+proportion of GDP: proportion of GDP
+persons: persons
+per 100,000 population: per 100,000 population
+per million population: per million population
+per 1000 uninfected population: per 1000 uninfected population 
+per 1000 life births: 	per 1000 life births
+per 1,000 women: per 1,000 women
+per 1,000 population: per 1,000 population
+cases: cases
+number: number
+liter: liter
+kg per capita: kg per capita
+kg/mln.dram: kg/mln.dram
+mln. USD: mln. USD
+USD: USD
+mln. AMD: mln. AMD
+mole - H - ion / liter: mole - H - ion / liter
