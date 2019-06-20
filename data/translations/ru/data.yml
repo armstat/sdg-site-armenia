@@ -1,17 +1,17 @@
-sex: Пол
-age: Возраст
-location: Расположение
-employment status: Рабочий статус
-disaster type: тип бедствия
-education type: тип образования
-transportation type: вид транспорта
+Sex: Пол
+Age: Возраст
+Location: Расположение
+Employment status: Рабочий статус
+Disaster type: тип бедствия
+Education type: тип образования
+Transportation type: вид транспорта
 female: женщина
 male: мужчина
 number: количество
 rural: село
 urban: город
 total: всего
-children: дети 
+children: дети
 aged 0-17 years: 0-17 лет
 aged 5-11 years: 5-11 лет
 aged 12-15 years: 12-15 лет
@@ -48,7 +48,7 @@ wage employed: наемные работники
 self-employed: самозанятые
 other employed: другие рабочие
 unemployment: безработные
-economically inactive population: экономически не активное население
+economically inactive  population: экономически не активное население
 pensioners: пенсионеры
 students: студенты
 other inactive population: другое не активное население

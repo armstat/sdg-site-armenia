@@ -1,10 +1,10 @@
-sex: Sex
-age: Age
-location: Location
-employment status: Employment status
-disaster type: disaster type
-education type: education type
-transportation type: transportation type
+Sex: Sex
+Age: Age
+Location: Location
+Employment status: Employment status
+Disaster type: disaster type
+Education type: education type
+Transportation type: transportation type
 female: female
 male: male
 number: number
@@ -48,7 +48,7 @@ wage employed: wage employed
 self-employed: self-employed
 other employed: other employed
 unemployment: unemployment
-economically inactive population: economically inactive population
+economically inactive  population: economically inactive population
 pensioners: pensioners
 students: students
 other inactive population: other inactive population
@@ -157,7 +157,7 @@ proportion of GDP: proportion of GDP
 persons: persons
 per 100,000 population: per 100,000 population
 per million population: per million population
-per 1000 uninfected population: per 1000 uninfected population 
+per 1000 uninfected population: per 1000 uninfected population
 per 1000 life births: 	per 1000 life births
 per 1,000 women: per 1,000 women
 per 1,000 population: per 1,000 population
