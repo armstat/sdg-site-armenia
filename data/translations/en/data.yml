@@ -154,19 +154,26 @@ have achieved 100 per cent birth registration: have achieved 100 per cent birth 
 have achieved 80 per cent death registration: have achieved 80 per cent death registration
 per capita: per capita
 proportion of GDP: proportion of GDP
-persons: persons
-per 100,000 population: per 100,000 population
-per million population: per million population
-per 1000 uninfected population: per 1000 uninfected population
-per 1000 life births: 	per 1000 life births
-per 1,000 women: per 1,000 women
+1,000 ha: 1,000 ha
+per 100,000 live births: per 100,000 live births
+per 1,000 life births: per 1,000 life births
 per 1,000 population: per 1,000 population
-cases: cases
-number: number
+per 100,000 population: per 100,000 population
+case: case
+person: person
 liter: liter
-kg per capita: kg per capita
-kg/mln.dram: kg/mln.dram
+per 1,000 women: per 1,000 women
+per 10,000 population: per 10,000 population
+unit: unit
+yes=1, no=0: yes=1, no=0
+mln. dram: mln. dram
+dram: dram
+number: number
+1,000 people: 1,000 people
+1,000 tons: 1,000 tons
+kg/mln. dram: kg/mln. dram
+per million population: per million population
 mln. USD: mln. USD
+kg per capita: kg per capita
+mole - H - ion/liter: mole - H - ion/liter
 USD: USD
-mln. AMD: mln. AMD
-mole - H - ion / liter: mole - H - ion / liter
