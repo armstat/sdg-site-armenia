@@ -1,0 +1,39 @@
+<table class="table table-hover">
+
+  <!-- The organisation field -->
+  <tr>
+    <th scope="row">{{ t.metadata_fields.source_organisation_1 }}</th>
+    <td>
+      {{ meta.source_organisation_1 | t }}
+      {% if meta.source_active_2 %}
+        , {{ meta.source_organisation_2 | t }}
+      {% endif %}
+      {% if meta.source_active_3 %}
+        , {{ meta.source_organisation_3 | t }}
+      {% endif %}
+    </td>
+  </tr>
+
+  <!-- The link field -->
+  <tr>
+    <th scope="row">{{ t.metadata_fields.source_url_1 }}</th>
+    <td>
+      <a href="{{ meta.source_url_1 }}" target="_blank">
+        {{ meta.source_url_text_1 | t }}
+      </a>
+    </td>
+  </tr>
+
+  <!-- The contact field -->
+  <tr>
+    <th scope="row">{{ t.metadata_fields.source_contact_1 }}</th>
+    <td>{{ meta.source_contact_1 | t }}</td>
+  </tr>
+
+  <!-- The other information field -->
+  <tr>
+    <th scope="row">{{ t.metadata_fields.source_other_info_1 }}</th>
+    <td>{{ meta.source_other_info_1 | t }}</td>
+  </tr>
+
+</table>
