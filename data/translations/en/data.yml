@@ -5,6 +5,7 @@ Employment status: Employment status
 Disaster type: disaster type
 Education type: education type
 Transportation type: transportation type
+Category: Category
 female: female
 male: male
 number: number
@@ -22,6 +23,7 @@ aged 63 and older: aged 63 and older
 aged 65 and older: aged 65 and older
 aged 0-16 years: aged 0-16 years
 aged 17-65 years: aged 17-65 years
+aged 18-66 years: aged 18-66 years
 aged 0-4 years: aged 0-4 years
 aged 5-9 years: aged 5-9 years
 aged 10-14 years: aged 10-14 years
@@ -78,8 +80,8 @@ single mother child: single mother child
 left without parental care: left without parental care
 other: other
 natural disaster: natural disaster
-technical disaster: technical disaster
-social-domestic disaster: social-domestic disaster
+man-made disaster: man-made disaster
+social-biological disaster: social-biological disaster
 education: education
 health: health
 social protection: social protection
@@ -154,19 +156,26 @@ have achieved 100 per cent birth registration: have achieved 100 per cent birth 
 have achieved 80 per cent death registration: have achieved 80 per cent death registration
 per capita: per capita
 proportion of GDP: proportion of GDP
-persons: persons
-per 100,000 population: per 100,000 population
-per million population: per million population
-per 1000 uninfected population: per 1000 uninfected population
-per 1000 life births: 	per 1000 life births
-per 1,000 women: per 1,000 women
+1,000 ha: 1,000 ha
+per 100,000 live births: per 100,000 live births
+per 1,000 life births: per 1,000 life births
 per 1,000 population: per 1,000 population
-cases: cases
-number: number
+per 100,000 population: per 100,000 population
+case: case
+person: person
 liter: liter
-kg per capita: kg per capita
-kg/mln.dram: kg/mln.dram
+per 1,000 women: per 1,000 women
+per 10,000 population: per 10,000 population
+unit: unit
+yes=1, no=0: yes=1, no=0
+mln. dram: mln. dram
+dram: dram
+number: number
+1,000 people: 1,000 people
+1,000 tons: 1,000 tons
+kg/mln. dram: kg/mln. dram
+per million population: per million population
 mln. USD: mln. USD
+kg per capita: kg per capita
+mole - H - ion/liter: mole - H - ion/liter
 USD: USD
-mln. AMD: mln. AMD
-mole - H - ion / liter: mole - H - ion / liter
