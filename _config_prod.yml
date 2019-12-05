@@ -14,4 +14,4 @@ baseurl: ""
 environment: production
 remote_data_prefix: "https://armstat.github.io/sdg-data-armenia/prod"
 analytics:
-  ga_prod: 'UA-4464980-1'
+  ga_prod: 'UA-17758567-2'
