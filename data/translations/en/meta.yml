@@ -11,6 +11,8 @@ name-1-3-1-j: Children with disabilities living in orphanages (aged 0-17 years) 
 name-1-3-1-ja: Adopted children (aged 0-17 years)
 name-1-3-1-jb: Adopted children by social groups (aged 0-17 years)
 name-1-3-1-jc: Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year
+name-1-3-1-ka: Share of poor population who receive family benefit
+name-1-3-1-kb: Share of poor population who receive social assistance, including family benefit
 name-1-4-1-a: Centralized water supply
 name-1-4-1-b: Centralized sewerage system
 name-1-5-1-a: Number of deaths,  temporarily evacuated and directly affected persons attributed to disasters per 100,000 population  by types of disasters
@@ -57,6 +59,7 @@ name-6-2-1-a: Proportion of population using safely managed sanitation facility
 name-6-2-1-b: Proportion of population using hand-washing facility with soap and water
 name-6-2-1-c: Proportion of population using sanitary-hygienic services defined by sanitation norms
 name-6-3-1-a: Proportion of insufficiently treated wastewater
+name-7.1.1.a: Proportion of households with access to electricity 
 name-7-1-2-a: Proportion of households with primary reliance on clean fuels and technology
 name-8-5-1-a: Average Monthly Nominal Wages / Salaries
 name-10-7-2-a: Percentage of returned migrants who undertook paid work during the last 7 days
@@ -74,6 +77,7 @@ name-16-1-1-a: Number of homicide cases per 100,000 population
 name-17-1-1-a: Total central government revenue as a proportion of GDP, by source, including
 name-17-3-1-a: Foreign direct investments (FDI)
 name-17-4-1-a: External debt service as percentage of exports goods and services
+name-17-8-1-a: Proportion of individuals using the Internet by sex and age groups 
 available-8-4-2: Household Final Consumption Expenditure, Goods
 description-8-4-2: Cost of goods purchased by households for final consumption
 unit-8-4-2: mln. drams, drams, %
