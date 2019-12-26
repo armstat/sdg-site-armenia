@@ -1,7 +1,7 @@
 Sex: Пол
 Age: Возраст
 Location: Расположение
-Employment status: Рабочий статус
+Employment status: Статус занятости
 Disaster type: тип бедствия
 Education type: тип образования
 Transportation type: вид транспорта
@@ -51,7 +51,7 @@ economically active population: экономически активное нас
 employed: занятые
 wage employed: наемные работники
 self-employed: самозанятые
-other employed: другие рабочие
+other employed: другие занятые
 unemployment: безработные
 economically inactive  population: экономически не активное население
 pensioners: пенсионеры
