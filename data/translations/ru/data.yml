@@ -6,6 +6,7 @@ Disaster type: тип бедствия
 Education type: тип образования
 Transportation type: вид транспорта
 Category: Категория
+Access to services: Доступ к услугам
 female: женщина
 male: мужчина
 number: количество
@@ -189,7 +190,7 @@ household access to centralized water supply: доступ домашних хо
 household access to centralized sewerage system: доступ домашних хозяйств к централизованной канализации
 household access to garbage disposal: "доступ домашних хозяйств  к  централизованного вывоза мусора (система сбора мусора и / или утилизация на грузовике; свалка на свалке)"
 internet accessibility for household: доступ  домашнего хозяйства к интернету
-internet accessibility for  household members: доступ членов домашнего хозяйства к интернету  
+internet accessibility for household members: доступ членов домашнего хозяйства к интернету  
 share of households with electricity supply: доля домашних хозяйств с электроснабжением
 garbage disposal: сбор мусора
 landline telephone: телефон стационарный
