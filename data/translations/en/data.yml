@@ -6,6 +6,7 @@ Disaster type: disaster type
 Education type: education type
 Transportation type: transportation type
 Category: Category
+Type: Type
 female: female
 male: male
 number: number
@@ -13,6 +14,7 @@ rural: rural
 urban: urban
 total: total
 children: children
+Access to services: Access to services
 aged 0-17 years: aged 0-17 years
 aged 5-11 years: aged 5-11 years
 aged 12-15 years: aged 12-15 years
@@ -42,6 +44,9 @@ aged 56 - 62 years: aged 56 - 62 years
 15-24 age: 15-24 age
 25-29 age: 25-29 age
 15-75 age: 15-75 age
+aged 5-14 years: aged 5-14 years
+aged 15-24 years: aged 15-24 years
+aged 25 and older: aged 25 and older
 with disabilities: with disabilities
 total to the total number of children with disabilities (aged 0-17 years): total to the total number of children with disabilities (aged 0-17 years)
 economically active population: economically active population
@@ -179,3 +184,22 @@ mln. USD: mln. USD
 kg per capita: kg per capita
 mole - H - ion/liter: mole - H - ion/liter
 USD: USD
+10% of daily per capita total household consumption: 10% of daily per capita total household consumption
+25% of daily per capita total household consumption: 25% of daily per capita total household consumption
+household access to centralized water supply: household access to centralized water supply
+household access to centralized sewerage system: household access to centralized sewerage system
+household access to garbage disposal: "household access to garbage disposal (garbage collector system and/or disposal by truck,  garbage piled up for disposal)"
+internet accessibility for household: internet accessibility for household
+internet accessibility for household members: internet accessibility for household members
+share of households with electricity supply: share of households with electricity supply
+garbage disposal: garbage disposal
+landline telephone: landline telephone
+electricity supply: electricity supply
+postal service: postal service
+bank services: bank services
+irrigation: irrigation
+healthcare: healthcare
+public transportation: public transportation
+Services: Services
+disabled: disabled
+proportion of households with primary reliance on clean fuels and technology: proportion of households with primary reliance on clean fuels and technology

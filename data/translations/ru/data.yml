@@ -1,11 +1,12 @@
 Sex: Пол
 Age: Возраст
 Location: Расположение
-Employment status: Рабочий статус
+Employment status: Статус занятости
 Disaster type: тип бедствия
 Education type: тип образования
 Transportation type: вид транспорта
 Category: Категория
+Access to services: Доступ к услугам
 female: женщина
 male: мужчина
 number: количество
@@ -42,13 +43,16 @@ aged 56 - 62 years: 56-62 лет
 15-24 age: 15-24 лет
 25-29 age: 25-29 лет
 15-75 age: 15-75 лет
+aged 5-14 years: 5-14 лет
+aged 15-24 years: 15-24 лет
+aged 25 and older: 25 и более лет
 with disabilities: с ограниченными возможностями?
 total to the total number of children with disabilities (aged 0-17 years): Всего  количеству детей с ограниченными возможностями (в возрасте 0-17 лет)?
 economically active population: экономически активное население
 employed: занятые
 wage employed: наемные работники
 self-employed: самозанятые
-other employed: другие рабочие
+other employed: другие занятые
 unemployment: безработные
 economically inactive  population: экономически не активное население
 pensioners: пенсионеры
@@ -69,22 +73,22 @@ aged 1-6 years: 1-6 лет
 aged 7-9 years: 7-9 лет
 aged 10-15 years: 10-15 лет
 aged 16-17 years: 16-17 лет
-total to the population of respective age: Всего для населения соответствующего возраста?
+total to the population of respective age: всего для населения соответствующего возраста?
 total to children aged 0-17 years with disabilities: тотально детей в возрасте 0-17 лет с ограниченными возможностями?
 up to 6 months: до 6 месяцов
 from 6 months to 1 year: с 6 месяцев до 1 года
 aged 1-5 years: 1-5 лет
 aged 6-9 years: 6-9 лет
-child with two parents: Ребенок, имеющий обоих родителей
-single mother child: Ребенок матери одиночки
-left without parental care: Ребенок, лишенный родительской опеки
+child with two parents: ребенок, имеющий обоих родителей
+single mother child: ребенок матери одиночки
+left without parental care: ребенок, лишенный родительской опеки
 other: другие
 natural disaster: стихийные бедствия
 man-made disaster: техногенные бедствия
 social-biological disaster: социально-биологические бедствия
-education: Образование
-health: Здравоохранение
-social protection: Социальная защита
+education: образование
+health: здравоохранение
+social protection: социальная защита
 arable land: пашня
 sown areas: посевные площади
 perennial plants: многолетние насаждения
@@ -141,13 +145,13 @@ freight volumes: объем грузоперевозок
 pipelines: магистральный трубопроводный транспорт
 growth rates of household expenditure or income per capita among the bottom 40 per cent of the population: Расходы домохозяйств или рост доходов на душу населения среди самых низких 40 процентов населения
 growth rates of household expenditure or income per capita among the total population: Расходы домохозяйств или рост доходов на душу населения среди всего населения
-high plant species registered in the Red Book of RA: Высшие виды растений, занесенные в Красную книгу РА
+high plant species registered in the Red Book of RA: высшие виды растений, занесенные в Красную книгу РА
 included in the specially protected natural areas: включены в особо охраняемые природные территории
 registered in the Red Book of RA: занесенные в Красную книгу РА
 included in the specially protected natural areas: включены в особо охраняемые природные территории
-tax incomes and duties: Налоги и пошлины
-other incomes: Прочие доходы
-official grants: Официальные трансферты
+tax incomes and duties: налоги и пошлины
+other incomes: прочие доходы
+official grants: официальные трансферты
 equal to or greater than 256 kbit/s and less than 2 Mbit/s: равно или выше скорости 256 Кбит/с и менее 2 Мбит/с
 equal to or greater than 2 Mbit/s and less than 10 Mbit/s: равно или выше скорости 2 Мбит/с и менее 10 Мбит/с
 equal to or greater than 10 Mbit/s: равно или выше скорости 10 Мбит/с
@@ -179,3 +183,23 @@ mln. USD: млн. долларов США
 kg per capita: кг на душу населения
 mole - H - ion/liter: мол-H - ион/литр
 USD: долларов США
+10% of daily per capita total household consumption: 10% от ежедневного потребления  в домашних хозяйствах (на душу населения) (%)
+25% of daily per capita total household consumption: 25% от ежедневного потребления  в домашних хозяйствах (на душу населения) (%)
+Type:  Тип
+household access to centralized water supply: доступ домашних хозяйств к централизованному водоснабжению 
+household access to centralized sewerage system: доступ домашних хозяйств к централизованной канализации
+household access to garbage disposal: "доступ домашних хозяйств  к  централизованного вывоза мусора (система сбора мусора и / или утилизация на грузовике; свалка на свалке)"
+internet accessibility for household: доступ  домашнего хозяйства к интернету
+internet accessibility for household members: доступ членов домашнего хозяйства к интернету  
+share of households with electricity supply: доля домашних хозяйств с электроснабжением
+garbage disposal: сбор мусора
+landline telephone: телефон стационарный
+electricity supply: блок питания
+postal service: почта
+bank services: банковские работы
+irrigation: орошение
+healthcare: здравоохранение
+public transportation: общественный транспорт
+Services: Сервисы
+disabled: инвалиды
+proportion of households with primary reliance on clean fuels and technology: доля домохозяйств, которые в первую очередь полагаются на чистое топливо и технологии
