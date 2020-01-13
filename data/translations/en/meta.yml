@@ -58,7 +58,7 @@ name-6-1-1-a: Proportion of  households with centralized water supply
 name-6-2-1-a: Proportion of population using safely managed sanitation facility
 name-6-2-1-b: Proportion of population using hand-washing facility with soap and water
 name-6-2-1-c: Proportion of population using sanitary-hygienic services defined by sanitation norms
-name-6-3-1-a: Proportion of insufficiently treated wastewater
+name-6-3-1-a: Proportion of insufficiently treated wastewater in the total volume of generated wastewater
 name-7-1-1-a: Proportion of households with access to electricity 
 name-7-1-2-a: Proportion of households with primary reliance on clean fuels and technology
 name-8-5-1-a: Average Monthly Nominal Wages / Salaries
@@ -70,6 +70,7 @@ name-13-1-1-a: Number of deaths,  temporarily evacuated and directly affected pe
 name-14-3-1-a: Average Lake Sevan acidity (pH) measured at agreed suite of representative sampling stations
 name-14-5-1-a: Coverage of protected water areas in relation to lakes and reservoirs
 name-14-a-1-a: Budget allocated to research and complex protection related to lake Sevan
+name-15-1-2-a: The number and proportion of protected areas in the country by categories
 name-15-3-1-a: Proportion of lands in need of improvement over total land area
 name-15-5-1-a-1: Registered vertebrate and invertebrate species, of which
 name-15-5-1-a-2: Registered high and low plant species, of which
