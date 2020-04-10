@@ -45,6 +45,9 @@ markdown: kramdown
 
 # Exclude certain files/folders.
 exclude:
+  - vendor
+  - scripts
+  - remotedata
   - Gemfile
   - Gemfile.lock
   - README.md
