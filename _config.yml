@@ -43,8 +43,20 @@ org_name: armstat
 # Build settings
 markdown: kramdown
 
-# Travis Support
-exclude: [vendor, scripts, remotedata]
+# Exclude certain files/folders.
+exclude:
+  - vendor
+  - scripts
+  - remotedata
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README
+  - LICENSE
+
+# Include certain (normally excluded) files.
+include:
+  - .htaccess
 
 # International Support
 # Eg name: Australia and adjective: Australian
