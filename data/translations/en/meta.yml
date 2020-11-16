@@ -80,11 +80,70 @@ name-17-1-1-a: Total central government revenue as a proportion of GDP
 name-17-3-1-a: Foreign direct investments (FDI)
 name-17-4-1-a: External public debt service as a proportion of exports of goods and services
 name-17-8-1-a: Proportion of individuals using the Internet by sex and age groups 
-available-8-4-2: Household Final Consumption Expenditure, Goods
-description-8-4-2: Cost of goods purchased by households for final consumption
 description-9-5-1: This statistics is conducted only for public sector
 description-9-5-2: This statistics is conducted only for public sector
 description-8-8-1: This statistics does not apply to migrants
-unit-8-4-2: mln. drams, drams, %
 comments-8-5-1-a: "* Since 2018 the source of information for the average wage calculation is the database of the Individual records on income tax and social security tax authorized by the State Revenue Committee of the Republic of Armenia (SRC RA). In order to provide comparability of indicators on wages/salaries for 2017-2018 the 2017 indicator is provided by the database of SRC RA."
 comments-5-b-1: Data collected since 2017
+available-8-4-2: "Household Final Consumption Expenditure on goods, the same per capita and in relation to GDP "
+description-8-4-2: "The value of goods purchased by RA resident households for final consumption,
+the same per capita and in relation to GDP "
+calculations-8-4-2: "The value of purchased goods is separated from the total final consumption expenditures of households for the reporting period (in mln. AMD). To calculate the same indicator per capita, this value is divided to the average annual population for the same period (in AMD), and in relation to GDP, this value is divided to GDP for the same period (in %)."
+comments-8-4-2: "The basis for estimating  the value of purchased goods for households final consumption expenditures is the GDP structure by expenditure components distributed by GDP expenditure classification, which is compiled under the International Comparison Program to calculate GDP at purchasing power parity. https://www.worldbank.org/en/programs/icp http://www.cisstat.org/icp/"
+available-12-2-2: "Household Final Consumption Expenditure on goods, the same per capita and in relation to GDP "
+description-12-2-2: "The value of goods purchased by RA resident households for final consumption,
+the same per capita and in relation to GDP "
+calculations-12-2-2: "The value of purchased goods is separated from the total final consumption expenditures of households for the reporting period (in mln. AMD). To calculate the same indicator per capita, this value is divided to the average annual population for the same period (in AMD), and in relation to GDP, this value is divided to GDP for the same period (in %)."
+comments-12-2-2: "The basis for estimating  the value of purchased goods for households final consumption expenditures is the GDP structure by expenditure components distributed by GDP expenditure classification, which is compiled under the International Comparison Program to calculate GDP at purchasing power parity. https://www.worldbank.org/en/programs/icp http://www.cisstat.org/icp/"
+description-17-3-1-a: "The foreign direct investment is the acquisition by a resident(s) of one country 10% or more of the voting  power in the capital of another country's resident organization, all financial claims and liabilities with those investors and related organizations, as well as the share of those investors in organization profit. Direct investments are implemented:
+1) In the authorized and emission  capital, in the form of bonds, shares, equity participation, i.e., when another organization is managing the voting shares (common stocks, interests, shares) of not less than 50% (subsidiary) and when another organization owns 10-50% of the voting power (affiliated company),
+2) In the direct investor's share to the other elements of entity's own capital, 3) In debt instruments. out in form of bonds, other securities (excepting shares), credits, loans, deposits."
+coverage-17-3-1-a: "It covers all marzes of RA and Yerevan city. "
+calculations-17-3-1-a: "The calculations are carried out in accordance with the filling procedure specified in the statistical reporting form"
+comments-17-3-1-a: "The main sources of data collection are the foreign investments and foreign investment implementing organizations, as well as data and additional calculations received from RA Central Bank on indicators of foreign investments. The data collection is implemented by the statistical reporting form in accordance with the Annual and Five Year Statistical Programs (https://www.armstat.am/am/?nid=80&id=2271). "
+description-8-5-1-a: "Тhе source of information օn wages / salaries before 2018 was the data submitted by the establishments trough the statistical reports and since 2018 - the database of the Personal Income Tax and Social Tax (Payment), authorized by the State Revenue Committee of the RA covering establishments with at least 1 paid employees. "
+definitions-8-5-1-a: "Nominal wage is the amount of employee's pretax gross compensation, which characterizes the level of payout of link with the prices of goods and services.
+Employees’ remuneration and other payments equal to it are the gross wages/salaries in return for the job done in cash and (or) in kind before deduction of compulsory taxes defined by law. "
+calculations-8-5-1-a: "Average monthly nominal wage is calculated as the sum of remuneration and other payments equal to it (both in cash and in kind) divided by the average monthly payroll number of employees."
+comments-8-5-1-a: "https://www.armstat.am/file/article/trud_2019_11.pdf"
+description-12-3-1-a: " Food loss is the sum of losses of all product groups / product types included in the RA National Food Balance. "
+comments-12-3-1-a: " https://www.armstat.am/am/?nid=82&id=2283"
+description-2-4-1-a: " National Indicator includes the data on arable land and perennial plantings and agricultural crop areas.
+Arable land is the land used for sowing agricultural crops, including perennial grasses and clean fallow.
+Perennial plantings is the land used for perennial plantings, as well as fruit nurseries.
+Agricultural crop areas are the areas of actual sowing of agricultural crops, including double sowing and sub-sowing, in the inter-row areas of orchards and vineyards."
+comments-2-4-1-a: " https://www.armstat.am/am/?nid=586&year=2019"
+description-2-c-1-a: " The food and non-alcoholic beverages index shows the monthly changes in the prices of goods purchased by households in the consumer market of the Republic of Armenia.
+The price observations for the calculation are carried out on a monthly basis, through a three-time visit to the trade points, strictly keeping the 10-day visit interval (on the 1st, 10th, 20th of each month, in the next days). Two to three representatives with clear descriptions are selected for each product."
+definitions-2-c-1-a: " The food and non-alcoholic beverages price index determines the change in the overall level of prices of foodstuff and non-alcoholic beverages of the stable basket over a period of time and the ratio of that value to the base period over the reporting period. The index characterizes the change in the general level of food prices and non-alcoholic beverages purchased by the population on an annual, quarterly, monthly basis."
+calculations-2-c-1-a: " The lowest level (of each commodity) indices are calculated by the Jevons formula, as the ratio of the average geometric prices of the selected species recorded in the current and base period of each commodity. For the aggregation of commodity groups and the total RA main indexes the constant weights by the modified Laspeyres formula is used."
+comments-2-c-1-a: " For the methodological guidelines for observation of consumer prices of goods and tarrifs for services and the calculation of consumer price indexes see the following link:  https://www.armstat.am/file/doc/99518258.pdf"
+description-1-3-1-ka: " This indicator is the ratio of family benefit recipients to the total number of vulnerable people. The latter is calculated by subtracting from the total population all persons of working age who are included in the social insurance system or receive benefits, as well as all persons of retirement age who also receive benefits. "
+definitions-1-3-1-ka: " State benefit is a regular or one-time financial assistance provided from the state budget."
+calculations-1-3-1-ka: " The ratio of the poor receiving  to the total number of poor."
+comments-1-3-1-ka: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
+description-1-3-1-kb: " This indicator is calculated by dividing the number of beneficiaries , the recipients of social assistance (including family benefits) in the total population (or group) by  the total number of population (or group). "
+definitions-1-3-1-kb: " Social assistance - a set of social services provided to the family in order to prevent or alleviate the difficulties of life, to meet their basic needs, to integrate into society, as well as to prevent the difficult situation of life."
+calculations-1-3-1-kb: "The ratio of the poor receiving social assistance (including family benefit) to the total number of poor."
+comments-1-3-1-kb: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
+description-3-5-2-a: " The volume of alcohol consumed by households per year in pure alcohol liters, divided by the total number of households."
+calculations-3-5-2-a: "The indicator is calculated by the volume of alcohol consumed by households per year in pure alcohol liters, divided by the total number of households."
+comments-3-5-2-a: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
+description-5-b-1-a: "Dividing the number of households with a mobile phone by the total number of households. "
+calculations-5-b-1-a: "The indicator is calculated by dividing the number of households with a mobile phone by the total number of households. "
+comments-5-b-1-a: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
+description-6-1-1-a: "  Dividing the number of households with centralized water supply by the total number of households. "
+definitions-6-1-1-a: "Pipeline clean water supply to consumers"
+calculations-6-1-1-a: " The  indicator is calculated by dividing the number of households with centralized water supply by the total number of households. "
+comments-6-1-1-a: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
+description-7-1-1-a: "Dividing the number of households with electricity by the total number of households."
+calculations-7-1-1-a: "The  indicator is calculated by dividing the number of households with electricity by the total number of households. "
+comments-7-1-1-a: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
+description-7-1-2-a: " Dividing the number of households primarily dependent on clean fuel and technology by the total number of households. "
+definitions-7-1-2-a: " Clean fuel (сentral heating, electricity and gas)"
+calculations-7-1-2-a: " The figure is calculated by dividing the number of households primarily dependent on clean fuel and technology by the total number of households. "
+comments-7-1-2-a: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
+description-17-8-1-a: "Dividing the number of people using the Internet  during the last 3 months by the total number of people. "
+calculations-17-8-1-a: "The  indicator is calculated by dividing the number of people using the Internet (from anywhere) during the last 3 months by the total number of people. "
+comments-17-8-1-a: " The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217)"
+
