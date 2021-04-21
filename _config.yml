@@ -19,7 +19,7 @@ environment: staging
 # Replace my-github-org and open-sdg-data-starter as needed.
 remote_data_prefix: "https://armstat.github.io/sdg-data-armenia/staging"
 remote_translations:
-  - 'https://open-sdg.github.io/sdg-translations/translations-0.8.3.json'
+  - 'https://open-sdg.github.io/sdg-translations/translations.json'
 
 analytics:
   ga_prod: ''
