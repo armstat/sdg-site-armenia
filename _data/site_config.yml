@@ -56,8 +56,7 @@ create_pages:
     layout: search
     title: ''
 custom_css: []
-custom_js:
-  - /assets/js/custom.js
+custom_js: []
 data_edit_url: data
 data_fields:
   units: ''
