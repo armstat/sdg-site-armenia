@@ -5,6 +5,7 @@ analytics:
   gtag: ''
   gtm: ''
   ga_prod: ''
+bootstrap_5: true
 breadcrumbs:
   goal:
     - path: /
@@ -21,6 +22,7 @@ breadcrumbs:
       label: general.home
     - path: /news
       label: menu.updates
+chartjs_3: true
 contrast_type: single
 cookie_consent_form:
   enabled: false
@@ -65,10 +67,11 @@ date_formats: []
 disclaimer:
   phase: ''
   message: ''
+  hidden: false
 email_contacts:
-  questions: 'test@example.com'
-  suggestions: 'test@example.com'
-  functional: 'test@example.com'
+  questions: test@example.com
+  suggestions: test@example.com
+  functional: test@example.com
 environment: staging
 favicons: favicon.io
 footer_language_toggle: none
@@ -216,6 +219,11 @@ site_config_form:
   dropdowns: []
   repository_link: /tree/develop/_data
   translation_link: ''
+time_series_attributes:
+  - field: COMMENT_TS
+    label: indicator.footnote
+  - field: DATA_LAST_UPDATE
+    label: metadata_fields.national_data_update_url
 validate_indicator_config: false
 validate_site_config: false
 x_axis_label: ''
