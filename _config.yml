@@ -1,68 +1,14 @@
 # Jekyll configuration for Open SDG platform
-#
-# You will need to change all of the capitalized variables below according
-# to your Github setup. For example, if your site and data repositories are:
-# -- https://github.com/my-awesome-github-org/my-awesome-site-repo
-# -- https://github.com/my-awesome-github-org/my-awesome-data-repo
-# Then you would want to make these replacements throughout this file:
-# -- replace "my-github-org" with "my-awesome-github-org"
-# -- replace "open-sdg-site-starter" with "my-awesome-site-repo"
-# -- replace "open-sdg-data-starter" with "my-awesome-data-repo"
+
+# Tell the Remote Theme plugin to use the Open SDG platform (Jekyll theme).
+remote_theme: open-sdg/open-sdg@1.7.0
 
 # Replace this title as needed.
-title: Indicators For The Sustainable Development Goals
-# Replace the baseurl with the name of this repository.
 baseurl: "/sdg-site-armenia"
+title: general.site_title
 url: ""
-data_dir: data
 environment: staging
-# Replace my-github-org and open-sdg-data-starter as needed.
-remote_data_prefix: "https://armstat.github.io/sdg-data-armenia/staging"
-remote_translations:
-  - 'https://open-sdg.github.io/sdg-translations/translations.json'
 
-analytics:
-  ga_prod: ''
-
-# Social media accounts.
-#twitter: 'MyTwitterAccount'
-
-# Replace the email addresses below.
-email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
-
-# Github Repo for Data
-# Replace this value as needed.
-repo_name: sdg-data-armenia
-branch: develop
-# Replace this value as needed.
-org_name: armstat
-
-# Build settings
-markdown: kramdown
-
-# Exclude certain files/folders.
-exclude:
-  - vendor
-  - scripts
-  - remotedata
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - README
-  - LICENSE
-
-# Include certain (normally excluded) files.
-include:
-  - .htaccess
-
-# International Support
-# Eg name: Australia and adjective: Australian
-country:
-  name: custom.armenia
-  adjective: custom.armenian
 # Pages
 collections:
   pages:
@@ -76,44 +22,18 @@ collections:
   goals:
     output: true
 
-# Menu
-menu:
-  # Use these to customise the main navigation.
-  - path: /reporting-status
-    # The "translation_key" refers to the key in the SDG Translations repository.
-    translation_key: menu.reporting_status
-  - path: /about
-    translation_key: menu.about
-  - path: /guidance
-    translation_key: menu.guidance
-  - path: /faq
-    translation_key: menu.faq
-
-# The list of languages that are translated. The first one is the default.
-languages:
-  - en
-  - am
-  - ru
-
-# Point to remote location for goal images.
-goal_image_base: https://open-sdg.github.io/sdg-translations/assets/img/goals
-
-# This makes sure that all pages have a language.
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      language: "en"
-
 # Tell Jekyll to use the Remote Theme plugin.
 plugins:
   - jekyll-remote-theme
   - jekyll-open-sdg-plugins
 
-# Tell the Remote Theme plugin to use the Open SDG platform (Jekyll theme).
-remote_theme: open-sdg/open-sdg@0.9.1
-
-# Apply any custom CSS.
-custom_css:
-  - /assets/css/custom.css
+# Exclude some files/folders.
+exclude:
+  - vendor
+  - scripts
+  - remotedata
+  - Gemfile
+  - Gemfile.lock
+  - README
+  - README.md
+  - LICENSE
