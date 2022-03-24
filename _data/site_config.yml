@@ -192,8 +192,7 @@ non_global_metadata: indicator.national_metadata
 progress_status:
   status_heading: ''
   status_types: []
-remote_data_prefix: 'http://127.0.0.1:8080'
-#remote_data_prefix: 'https://armstat.github.io/sdg-data-armenia/staging'
+remote_data_prefix: 'https://armstat.github.io/sdg-data-armenia/staging'
 reporting_status:
   title: status.reporting_status
   description: status.description
