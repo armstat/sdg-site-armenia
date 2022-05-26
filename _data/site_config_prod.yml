@@ -1,0 +1,7 @@
+environment: production
+# Replace my-github-org and open-sdg-data-starter as needed.
+remote_data_prefix: "https://armstat.github.io/sdg-data-armenia/prod"
+
+analytics:
+  # For production, you likely want to enter a Google Analytics code below.
+  ga_prod: 'UA-17758567-2'
