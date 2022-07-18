@@ -7,4 +7,4 @@ baseurl: ""
 environment: production
 
 analytics:
- ga_prod: 'UA-17758567-2'
+ ga_prod: '17758567'
