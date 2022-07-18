@@ -3,7 +3,7 @@ version: 2
 jobs:
   test:
     docker:
-      - image: cimg/ruby:2.5.9
+      - image: circleci/ruby:2.5.1
     working_directory: ~/repo
     steps:
       - checkout
@@ -24,7 +24,7 @@ jobs:
           command: bash scripts/test/html_proofer_staging.sh
   deploy_prod:
     docker:
-      - image: cimg/ruby:2.5.9
+      - image: circleci/ruby:2.5.1
     working_directory: ~/repo
     steps:
       - checkout
@@ -46,13 +46,12 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "43:16:d3:f9:bf:1f:2f:ac:c9:9d:b0:5a:6d:fb:42:1f"
-      - run: sudo apt install rsync
       - run:
           name: Deploy to Github
           command: bash scripts/deploy/circleci/deploy_prod.sh
   deploy_prod_server:
     docker:
-      - image: cimg/ruby:2.5.9
+      - image: circleci/ruby:2.5.1
     working_directory: ~/repo
     steps:
       - checkout
@@ -74,13 +73,12 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "6b:a9:5c:8e:32:74:2f:d0:f7:e4:e2:75:ea:dc:09:ac"
-      - run: sudo apt-get update && sudo apt-get install -y rsync
       - run:
           name: Deploy to server
           command: bash scripts/deploy/circleci/deploy_prod_server.sh
   deploy_staging:
     docker:
-      - image: cimg/ruby:2.5.9
+      - image: circleci/ruby:2.5.1
     working_directory: ~/repo
     steps:
       - checkout
