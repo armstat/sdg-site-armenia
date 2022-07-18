@@ -1,10 +1,8 @@
 # Jekyll configuration for Open SDG platform
 #
 # NOTE: This "production" version only contains differences from _config.yml.
-#       See also _data/site_config_prod.yml in this repository.
+#       See also _data/site_config_prod.yml in this repository, for other
+#       configuration such as Google Analytics.
 
 baseurl: ""
 environment: production
-
-analytics:
- ga_prod: 'UA-17758567-2'
