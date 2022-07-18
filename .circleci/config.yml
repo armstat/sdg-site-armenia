@@ -117,14 +117,14 @@ workflows:
                 - prod-pages
   deploy:
     jobs:
-      #- deploy_prod:
-      #    filters:
-      #      branches:
-      #        only: master
-      - deploy_prod_server:
+      - deploy_prod:
           filters:
             branches:
               only: master
+      #- deploy_prod_server:
+      #    filters:
+      #      branches:
+      #        only: master
       - deploy_staging:
           filters:
             branches:
