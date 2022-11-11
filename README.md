@@ -11,7 +11,7 @@ with Python from the root of the repository. Here is an example:
 
 This  will create a new "1.2.z" indicator called "Title of indicator".
 
-> This script requires the `pyyaml` package. Here is the command to  install
+> This script requires the `pyyaml` package. Here  is the command to  install
 > this package:
 >
 > `py -m pip install pyyaml`
