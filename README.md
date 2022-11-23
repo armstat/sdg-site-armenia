@@ -2,7 +2,7 @@
 
 This is the site repository for the Armenian implementation of Open SDG.
 
-## Adding new indicators
+## Adding new  indicators
 
 A helper script is available to add new indicators. To use it, execute the script
 with Python from the root of the repository. Here is an example:
