@@ -21,7 +21,7 @@ Note that you will still need to add/commit/push these files with Git.
 Finally, the next step is to perform the same steps in the other repository (if
 you have not already).
 
-## Google Analytics
+## Google  Analytics
 
 The UA code for Google Analytics can be set, for the production site, in the
 `_config_prod.yml` file.
