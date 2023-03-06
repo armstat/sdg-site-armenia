@@ -1,4 +1,4 @@
-# Open SDG - Site - Armenia
+# Open SDG - Site -  Armenia
 
 This is the site repository for the Armenian implementation of Open SDG.
 
