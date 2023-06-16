@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# Disable OPTIONS method.
+RewriteCond %{REQUEST_METHOD} ^OPTIONS
+RewriteRule .* - [F]
+
+# Disable multiviews and indexes.
+Options -Multiviews -Indexes
