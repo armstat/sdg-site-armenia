@@ -146,7 +146,7 @@ var translations = {
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/sdg-site-armenia/assets/css/style.css?v=20230803055616">
+        <link rel="stylesheet" href="/sdg-site-armenia/assets/css/style.css?v=20230803085953">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -447,7 +447,7 @@ data-event-label="high"
   data-charttitles="null"
   data-measurementunit=""
   data-xaxislabel=""
-  data-showdata="false"
+  data-showdata="true"
   data-graphtype="line"
   data-graphtypes="null"
   data-geocoderegex=""
@@ -459,14 +459,268 @@ data-event-label="high"
   data-graphtargetlines="null"
   data-graphseriesbreaks="null"
   data-indicatordownloads="null"
-  data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Տարի&quot;},{&quot;name&quot;:&quot;Group&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;A&quot;,&quot;B&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Group&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Value&quot;}]}"
+  data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Տարի&quot;},{&quot;name&quot;:&quot;Units&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;%&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Units&quot;},{&quot;name&quot;:&quot;Category&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;հավասար է կամ գերազանցում է 256 Կբիթ/վրկ արագությունը և պակաս է 2 Մբիթ/վրկ-ից&quot;,&quot;հավասար է կամ գերազանցում է 2 Մբիթ/վրկ արագությունը և պակաս է 10 Մբիթ/վրկ-ից&quot;,&quot;հավասար է կամ գերազանցում է 10 Մբիթ/վրկ արագությունը&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Կատեգորիա&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;Value&quot;}]}"
   data-compositebreakdownlabel=""
   data-precision="null"
   data-proxy=""
   data-proxyseries="null"
 >
   
-  <div id="indicator-main" class="indicator-main col-md-12">
+  <span role="status" class="visually-hidden" id="indicator-data-view-status"></span>
+  <div id="indicator-sidebar" class="indicator-sidebar col-md-3">
+    <div id="serieses"></div>
+<div id="units"></div>
+<div id="toolbar">
+  <span id="series-help">
+    <h4>Ենթախմբեր</h4>
+    <p>Ընտրել ստորև բերված կատեգորիաները` տվյալների տարբեր ենթախմբերը տեսնելու համար: Ոմանք հասանելի չեն լինի, մինչև չընտրվի առավել բարձր մակարդակը:</p>
+  </span>
+  <div id="fields">
+    <p class="async-loading" data-img="/sdg-site-armenia/assets/img/loading-small.gif"></p>
+  </div>
+</div>
+
+  </div>
+  <div id="indicator-main" class="indicator-main col-md-9">
+    
+
+
+
+
+<div id="headlineTable">
+
+  <div id="datatables">
+
+    
+    <a href="https://armstat.github.io/sdg-data-armenia/staging/hy/data/17-6-1.csv" class="btn btn-primary btn-download" download='indicator_17-6-1.csv' tabindex='0' role='button'>Ներբեռնել աղբյուրը CSV</a>
+
+    <p class="no-js-disaggregation-hint">րՆերբեռնեք աղբյուրի CSV-ն տարանջատումների համար</p>
+
+    
+    <h3>Վերնագրի տվյալներ չկան</h3>
+    
+  </div>
+
+  
+
+</div>
+
+
+<section>
+
+  <p class="async-loading" data-img="/sdg-site-armenia/assets/img/loading-small.gif"></p>
+
+  <div class="async-loaded mt-4" style="display:none;">
+
+    <div style="display: none;">
+    <span id="table-alternative">Աղյուսակային տվյալների այլընտրանքի համար տե՛ս Աղյուսակ ներդիր:</span>
+  </div>
+  <ul class="nav nav-tabs non-stacking-tabs data-view" role="tablist">
+    
+    <li role="presentation"
+      class="
+        nav-item
+        
+        
+      ">
+      <button
+        class="nav-link active"
+        data-bs-toggle="tab"
+        role="tab"
+        type="button"
+        
+          id="tab-chartview"
+          data-bs-target="#chartview"
+          aria-controls="chartview"
+          aria-describedby="table-alternative"
+          data-on="click"
+data-event-category="Tab change"
+data-event-action="Change data view"
+data-event-label="Change to Chart tab"
+
+        
+      >Գծապատկեր</button>
+    </li>
+    
+    <li role="presentation"
+      class="
+        nav-item
+        
+        
+      ">
+      <button
+        class="nav-link "
+        data-bs-toggle="tab"
+        role="tab"
+        type="button"
+        
+          id="tab-tableview"
+          data-bs-target="#tableview"
+          aria-controls="tableview"
+          data-on="click"
+data-event-category="Tab change"
+data-event-action="Change data view"
+data-event-label="Change to Table tab"
+
+        
+      >Աղյուսակ</button>
+    </li>
+    
+  </ul>
+  
+    <div class="tab-content data-view">
+    
+      
+        <div role="tabpanel" class="tab-pane active" id="chartview">
+          
+
+    <div id="dataset-size-warning" style="display:none" role="alert">
+      <i class="fa fa-bolt"><span class="sr-only">Զգուշացում:</span></i>
+      Տվյալները չափազանց շատ են գծապատկերում ցուցադրելու համար: Նրանցից ոչ բոլորը կցուցադրվեն, քանի դեռ չեք հանել որոշ նշվածները:
+    </div>
+
+    
+    <div id="selectionsChart">
+      <figure role="group">
+        <div id="chart-canvas">
+          <h4 id="chart-heading" class="chart-title">
+            Երկրների միջև գիտության և/կամ տեխնոլոգիական համագործակցության համաձայնագրեր և ծրագրեր՝ ըստ համագործակցության տեսակի
+          </h4>
+          <div id="chart" class="plot-container">
+            <canvas
+    role="img"
+    aria-labelledby="chart-heading"
+    aria-describedby="table-alternative chart-annotations"
+    tabindex="0"
+ ></canvas>
+
+          </div>
+          <div id="plotLegend"></div>
+          
+
+
+
+<div id="selectionChartFooter" class="table-footer-text">
+  <h5 class="sr-only">Chart details</h5>
+    <dl>
+        
+
+        
+
+        <dt class="data-controlled-footer-field unit-from-data">Չափման միավոր:</dt>
+        <dd class="data-controlled-footer-field unit-from-data"></dd>
+
+        
+
+        
+
+        
+
+        
+        
+        <dt
+          class="data-controlled-footer-field"
+          data-ts-attribute="COMMENT_TS"
+        >Ծանոթագրություն:</dt>
+        <dd
+          class="data-controlled-footer-field"
+          data-ts-attribute="COMMENT_TS"
+        ></dd>
+        
+        <dt
+          class="data-controlled-footer-field"
+          data-ts-attribute="DATA_LAST_UPDATE"
+        >Տվյալները վերջին անգամ թարմացվել են:</dt>
+        <dd
+          class="data-controlled-footer-field"
+          data-ts-attribute="DATA_LAST_UPDATE"
+        ></dd>
+        
+        
+    </dl>
+</div>
+
+        </div>
+      </figure>
+      <div id="chartSelectionDownload" class="clearfix">
+        <button
+          id="btnSave"
+          title="Ներբեռնեք աղյուսակը որպես պատկեր"
+          aria-label="Ներբեռնեք աղյուսակը որպես պատկեր"
+          class='btn btn-primary btn-download'>
+          Ներբեռնեք գծապատկերի պատկերը
+        </button><!--
+   --></div>
+    </div>
+
+
+
+        </div>
+      
+    
+      
+        <div role="tabpanel" class="tab-pane " id="tableview">
+          <div style="display: none;">
+            <span id="column-sort-info">Կտտացրեք ՝ ըստ սյունակի տեսակավորելու</span>
+          </div>
+          <div id="selectionsTable"></div>
+<dl id="tableTargetLines" class="clearfix"></dl>
+
+
+
+
+<div id="selectionTableFooter" class="table-footer-text">
+  <h5 class="sr-only">Chart details</h5>
+    <dl>
+        
+
+        
+
+        <dt class="data-controlled-footer-field unit-from-data">Չափման միավոր:</dt>
+        <dd class="data-controlled-footer-field unit-from-data"></dd>
+
+        
+
+        
+
+        
+
+        
+        
+        <dt
+          class="data-controlled-footer-field"
+          data-ts-attribute="COMMENT_TS"
+        >Ծանոթագրություն:</dt>
+        <dd
+          class="data-controlled-footer-field"
+          data-ts-attribute="COMMENT_TS"
+        ></dd>
+        
+        <dt
+          class="data-controlled-footer-field"
+          data-ts-attribute="DATA_LAST_UPDATE"
+        >Տվյալները վերջին անգամ թարմացվել են:</dt>
+        <dd
+          class="data-controlled-footer-field"
+          data-ts-attribute="DATA_LAST_UPDATE"
+        ></dd>
+        
+        
+    </dl>
+</div>
+
+<div id="tableSelectionDownload" class="clearfix"></div>
+
+        </div>
+      
+    
+  </div>
+  
+
+  </div>
+
+</section>
+
   
   <div class="mt-4">
 <ul class="nav nav-tabs" role="tablist">
@@ -573,7 +827,7 @@ data-event-label="Change to Sources tab"
         <th scope="row">Data last updated </th>
         <td>
           
-            Oct 20, 2018
+            Aug 03, 2023
           
         </td>
         </tr>
@@ -588,7 +842,7 @@ data-event-label="Change to Sources tab"
         <th scope="row">Metadata last updated </th>
         <td>
           
-            Sep 15, 2019
+            Aug 03, 2023
           
         </td>
         </tr>
@@ -962,7 +1216,7 @@ data-event-label="Change to Sources tab"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Որոնում';</script>
 
-<script src='/sdg-site-armenia/assets/js/sdg.js?v=20230803055616'></script>
+<script src='/sdg-site-armenia/assets/js/sdg.js?v=20230803085953'></script>
 
 <script>
     new indicatorInit();
