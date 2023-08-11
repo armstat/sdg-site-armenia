@@ -278,6 +278,14 @@
           "status": "complete"
         },
         {
+          "id": "2-2-3",
+          "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)",
+          "description": "",
+          "keywords": "",
+          "href": "/2-2-3/",
+          "status": "notstarted"
+        },
+        {
           "id": "2-3-1",
           "title": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size",
           "description": "",
@@ -780,6 +788,14 @@
           "keywords": "",
           "href": "/3-d-1/",
           "status": "complete"
+        },
+        {
+          "id": "3-d-2",
+          "title": "Percentage of bloodstream infections due to selected antimicrobial-resistant organisms",
+          "description": "",
+          "keywords": "",
+          "href": "/3-d-2/",
+          "status": "complete"
         }]
     }
   },
@@ -795,6 +811,14 @@
           "description": "",
           "keywords": "",
           "href": "/4-1-1/",
+          "status": "notstarted"
+        },
+        {
+          "id": "4-1-2",
+          "title": "Completion rate (primary education, lower secondary education, upper secondary education)",
+          "description": "",
+          "keywords": "",
+          "href": "/4-1-2/",
           "status": "notstarted"
         },
         {
@@ -1614,6 +1638,14 @@
           "status": "complete"
         },
         {
+          "id": "10-4-2",
+          "title": "Redistributive impact of fiscal policy",
+          "description": "",
+          "keywords": "",
+          "href": "/10-4-2/",
+          "status": "complete"
+        },
+        {
           "id": "10-5-1",
           "title": "Financial Soundness Indicators",
           "description": "",
@@ -1660,6 +1692,22 @@
           "keywords": "",
           "href": "/10-7-2-b/",
           "status": "complete"
+        },
+        {
+          "id": "10-7-3",
+          "title": "Number of people who died or disappeared in the process of migration towards an international destination",
+          "description": "",
+          "keywords": "",
+          "href": "/10-7-3/",
+          "status": "notstarted"
+        },
+        {
+          "id": "10-7-4",
+          "title": "Proportion of the population who are refugees, by country of origin",
+          "description": "",
+          "keywords": "",
+          "href": "/10-7-4/",
+          "status": "notstarted"
         },
         {
           "id": "10-a-1",
@@ -1755,6 +1803,14 @@
           "description": "",
           "keywords": "",
           "href": "/11-5-2/",
+          "status": "notstarted"
+        },
+        {
+          "id": "11-5-3",
+          "title": "global_indicators.11-5-3-title",
+          "description": "",
+          "keywords": "",
+          "href": "/11-5-3/",
           "status": "notstarted"
         },
         {
@@ -2399,7 +2455,7 @@
         },
         {
           "id": "16-3-3",
-          "title": "Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms",
+          "title": "Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism",
           "description": "",
           "keywords": "",
           "href": "/16-3-3/",
