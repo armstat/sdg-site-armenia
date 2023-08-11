@@ -117,7 +117,7 @@ var translations = {
         ================================================== -->
 
         
-    <title>Խմբագրել կազմաձևը: 11.5.3.a - Կայուն զարգացման նպատակների ցուցիչներ</title>
+    <title>Խմբագրել կազմաձևը: 11.5.3 - Կայուն զարգացման նպատակների ցուցիչներ</title>
 
 
 
@@ -141,7 +141,7 @@ var translations = {
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/sdg-site-armenia/assets/css/style.css?v=20230810000849">
+        <link rel="stylesheet" href="/sdg-site-armenia/assets/css/style.css?v=20230811000854">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -237,11 +237,11 @@ layout-config-builder
       ՀԱՅԵՐԵՆ
     </button>
     <ul class="dropdown-menu"><li>
-            <a class="dropdown-item" href="/sdg-site-armenia/11-5-3-a/config/">
+            <a class="dropdown-item" href="/sdg-site-armenia/11-5-3/config/">
               English
             </a>
           </li><li>
-            <a class="dropdown-item" href="/sdg-site-armenia/ru/11-5-3-a/config/">
+            <a class="dropdown-item" href="/sdg-site-armenia/ru/11-5-3/config/">
               Pусский
             </a>
           </li></ul>
@@ -253,7 +253,7 @@ layout-config-builder
                     <span class="no-js-language-toggle"><div class="language-toggle-container d-flex">
     <i class="fa fa-globe language-toggle-globe-links"></i>
     <ul class="language-toggle-links list-unstyled list-inline"><li class="language-option-en list-inline-item">
-            <a class="language-toggle-link" href="/sdg-site-armenia/11-5-3-a/config/">
+            <a class="language-toggle-link" href="/sdg-site-armenia/11-5-3/config/">
                 English
             </a>
         </li><li class="language-option-hy list-inline-item">
@@ -261,7 +261,7 @@ layout-config-builder
                 ՀԱՅԵՐԵՆ
             </span>
         </li><li class="language-option-ru list-inline-item">
-            <a class="language-toggle-link" href="/sdg-site-armenia/ru/11-5-3-a/config/">
+            <a class="language-toggle-link" href="/sdg-site-armenia/ru/11-5-3/config/">
                 Pусский
             </a>
         </li></ul>
@@ -281,7 +281,7 @@ data-event-label="high"
 
 <div id="main-content" class="container" role="main">
   <div class="row">
-    <div class="col-md-12"><h1>Խմբագրել կազմաձևը: 11.5.3.a</h1></div>
+    <div class="col-md-12"><h1>Խմբագրել կազմաձևը: 11.5.3</h1></div>
   </div>
   <div class="config-widgets row">
     <div class="col-md-6" id="search_holder">
@@ -511,18 +511,6 @@ data-event-label="high"
 
     propertyEditorAccessibilityFixes(editor.getEditor('root.data_footnote'));
 
-    
-      try {
-        var currentValue = normalizeCurrentValue('data_non_statistical', true);
-        var propertyEditor = editor.getEditor('root.data_non_statistical');
-        propertyEditor.setValue(null);
-        propertyEditor.setValue(currentValue);
-        
-      }
-      catch (e) {
-        console.log(e.message);
-        console.log('Unable to set config key: data_non_statistical');
-      }
     propertyEditorAccessibilityFixes(editor.getEditor('root.data_non_statistical'));
 
     propertyEditorAccessibilityFixes(editor.getEditor('root.data_notice_class'));
@@ -561,7 +549,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('graph_title', "global_indicators.11-5-3-a-title");
+        var currentValue = normalizeCurrentValue('graph_title', "global_indicators.11-5-3-title");
         var propertyEditor = editor.getEditor('root.graph_title');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -593,7 +581,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('indicator_name', "global_indicators.11-5-3-a-title");
+        var currentValue = normalizeCurrentValue('indicator_name', "global_indicators.11-5-3-title");
         var propertyEditor = editor.getEditor('root.indicator_name');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -607,7 +595,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('indicator_number', "11.5.3.a");
+        var currentValue = normalizeCurrentValue('indicator_number', "11.5.3");
         var propertyEditor = editor.getEditor('root.indicator_number');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -623,8 +611,32 @@ data-event-label="high"
 
     propertyEditorAccessibilityFixes(editor.getEditor('root.national_geographical_coverage'));
 
+    
+      try {
+        var currentValue = normalizeCurrentValue('page_content', "");
+        var propertyEditor = editor.getEditor('root.page_content');
+        propertyEditor.setValue(null);
+        propertyEditor.setValue(currentValue);
+        
+      }
+      catch (e) {
+        console.log(e.message);
+        console.log('Unable to set config key: page_content');
+      }
     propertyEditorAccessibilityFixes(editor.getEditor('root.page_content'));
 
+    
+      try {
+        var currentValue = normalizeCurrentValue('permalink', "/11-5-3/");
+        var propertyEditor = editor.getEditor('root.permalink');
+        propertyEditor.setValue(null);
+        propertyEditor.setValue(currentValue);
+        
+      }
+      catch (e) {
+        console.log(e.message);
+        console.log('Unable to set config key: permalink');
+      }
     propertyEditorAccessibilityFixes(editor.getEditor('root.permalink'));
 
     propertyEditorAccessibilityFixes(editor.getEditor('root.placeholder'));
@@ -684,7 +696,7 @@ data-event-label="high"
     function addTranslationLink(propertyEditor) {
       var parts = propertyEditor.value.split('.');
       var translationLink = '';
-      translationLink = translationLink.replace('[id]', '11-5-3-a');
+      translationLink = translationLink.replace('[id]', '11-5-3');
       translationLink = translationLink.replace('[group]', parts[0]);
       translationLink = translationLink.replace('[key]', parts[1]);
       translationLink = translationLink.replace('[language]', 'hy');
@@ -719,7 +731,7 @@ data-event-label="high"
       else {
         var config = editor.getValue();
         var yaml = jsyaml.safeDump(config);
-        SaveAsFile(yaml, '11-5-3-a.yml', 'text/plain;charset=utf-8');
+        SaveAsFile(yaml, '11-5-3.yml', 'text/plain;charset=utf-8');
       }
     });
 
@@ -792,7 +804,7 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Որոնում';</script>
 
-<script src='/sdg-site-armenia/assets/js/sdg.js?v=20230810000849'></script>
+<script src='/sdg-site-armenia/assets/js/sdg.js?v=20230811000854'></script>
 
 <script>
     new indicatorInit();
