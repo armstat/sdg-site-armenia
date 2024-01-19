@@ -1539,7 +1539,7 @@
           "description": "",
           "keywords": "",
           "href": "/ru/9-3-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-3-2",
@@ -2667,14 +2667,6 @@
           "description": "",
           "keywords": "",
           "href": "/ru/17-8-1/",
-          "status": "complete"
-        },
-        {
-          "id": "17-8-1-a",
-          "title": "Доля лиц, использующих Интернет, по полу и возрастным группам",
-          "description": "Путем деления числа лиц, пользующихся интернетом   последних 3 месяцев на общую численность лиц.",
-          "keywords": "",
-          "href": "/ru/17-8-1-a/",
           "status": "complete"
         },
         {

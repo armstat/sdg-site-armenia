@@ -1539,7 +1539,7 @@
           "description": "",
           "keywords": "",
           "href": "/9-3-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-3-2",
@@ -2667,14 +2667,6 @@
           "description": "",
           "keywords": "",
           "href": "/17-8-1/",
-          "status": "complete"
-        },
-        {
-          "id": "17-8-1-a",
-          "title": "Proportion of individuals using the Internet by sex and age groups",
-          "description": "Dividing the number of people using the Internet during the last 3 months by the total number of people.",
-          "keywords": "",
-          "href": "/17-8-1-a/",
           "status": "complete"
         },
         {
