@@ -1,6 +1,6 @@
 ---
 title: Միտումների Գնահատման Վահանակ
-permalink: ru/dashboard/
+permalink: hy/dashboard/
 language: hy
 layout: page
 ---
