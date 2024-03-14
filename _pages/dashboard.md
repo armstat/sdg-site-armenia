@@ -5,9 +5,9 @@ layout: page
 ---
 <div class='tableauPlaceholder' id='viz1710329228303' style='position: relative'>
     <noscript>
-        <a href='#'>
+        <noscript>
             <img alt='Story 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SD&#47;SDG-ARM-2024&#47;Story1&#47;1_rss.png' style='border: none' />
-        </a>
+    </noscript>
     </noscript>
     <object class='tableauViz' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
