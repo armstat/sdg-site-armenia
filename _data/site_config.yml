@@ -186,7 +186,7 @@ menu:
   - path: /faq
     translation_key: menu.faq
     dropdown: []
-    path: /dashboard
+  - path: /dashboard
     translation_key: menu.dashboard
     dropdown: []
 metadata_edit_url: metadata
