@@ -187,7 +187,7 @@ menu:
     translation_key: menu.faq
     dropdown: []
   - path: dashboard/
-    translation_key: menu.dashboard
+    translation_key: custom.dashboard
     dropdown: []
 metadata_edit_url: metadata
 metadata_tabs: []
