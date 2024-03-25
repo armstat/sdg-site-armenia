@@ -3,7 +3,6 @@ title: Trend Assessment Dashboard
 permalink: /dashboard/
 layout: page
 ---
-
 <div class='tableauPlaceholder' id='viz1710329228303' style='position: relative'>
     <noscript>
             <img alt='Story 1' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SD&#47;SDG-ARM-2024&#47;Story1&#47;1_rss.png' style='border: none' />
