@@ -3,11 +3,10 @@ title: Trend Assessment Dashboard
 permalink: /dashboard/
 layout: page
 ---
+
 <div class='tableauPlaceholder' id='viz1710329228303' style='position: relative'>
     <noscript>
-        <noscript>
-            <img alt='Story 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SD&#47;SDG-ARM-2024&#47;Story1&#47;1_rss.png' style='border: none' />
-    </noscript>
+            <img alt='Story 1' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SD&#47;SDG-ARM-2024&#47;Story1&#47;1_rss.png' style='border: none' />
     </noscript>
     <object class='tableauViz' style='display:none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
@@ -33,4 +32,3 @@ layout: page
     var scriptElement = document.createElement('script');
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
-</script>
