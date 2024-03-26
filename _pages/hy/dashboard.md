@@ -1,5 +1,5 @@
 ---
-title: Միտումների Գնահատման Վահանակ
+title: Միտումների գնահատման վահանակ
 permalink: /am/dashboard/
 language: hy
 layout: page
