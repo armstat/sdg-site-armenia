@@ -69,9 +69,9 @@ disclaimer:
   message: ''
   hidden: false
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: info@armstat.am
+  suggestions: info@armstat.am
+  functional: info@armstat.am
 environment: staging
 favicons: favicon.io
 footer_language_toggle: none
