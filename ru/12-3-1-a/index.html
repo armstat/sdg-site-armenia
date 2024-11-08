@@ -145,7 +145,7 @@ var translations = {
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
-        <link rel="stylesheet" href="/sdg-site-armenia/assets/css/style.css?v=20241107002252">
+        <link rel="stylesheet" href="/sdg-site-armenia/assets/css/style.css?v=20241108002125">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -460,7 +460,7 @@ data-event-label="high"
   data-graphtargetlines="null"
   data-graphseriesbreaks="null"
   data-indicatordownloads="null"
-  data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Год&quot;},{&quot;name&quot;:&quot;Units&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;1,000 тонна&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Units&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;Value&quot;}]}"
+  data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Год&quot;},{&quot;name&quot;:&quot;Units&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;1,000 тонна&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Units&quot;},{&quot;name&quot;:&quot;Category&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;Food loss&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Категория&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;Value&quot;}]}"
   data-compositebreakdownlabel=""
   data-precision="null"
   data-proxy=""
@@ -495,195 +495,15 @@ data-event-label="high"
   <div id="datatables">
 
     
-    <a role="button" href="https://armstat.github.io/sdg-data-armenia/staging/ru/headline/12-3-1-a.csv" class="btn btn-primary btn-download" download="indicator_12-3-1-a.csv" tabindex="0" role="button">Скачать заголовки CSV</a>
-    
     <a role="button" href="https://armstat.github.io/sdg-data-armenia/staging/ru/data/12-3-1-a.csv" class="btn btn-primary btn-download" download='indicator_12-3-1-a.csv' tabindex='0' role='button'>Скачать исходные CSV</a>
 
     <p class="no-js-disaggregation-hint">Загрузить исходный CSV для дезагрегации</p>
 
     
-    <h3>Данные заголовка</h3>
-    <table class="table-responsive table table-hover dataTable no-footer" role="grid">
-      <caption>Потеря продуктов питания</caption>
-      <thead>
-        
-        
-        <th scope="col">Year</th>
-        
-        
-        
-        <th scope="col">Value</th>
-        
-        
-        
-        <th scope="col" class="table-value">Units</th>
-        
-        
-      </thead>
-      <tbody>
-        
-        <tr>
-          
-          
-          <td>2015</td>
-          
-          
-          
-          <td>579.9</td>
-          
-          
-          
-          <td class="table-value">1,000 тонна</td>
-          
-          
-        </tr>
-        
-        <tr>
-          
-          
-          <td>2016</td>
-          
-          
-          
-          <td>523.4</td>
-          
-          
-          
-          <td class="table-value">1,000 тонна</td>
-          
-          
-        </tr>
-        
-        <tr>
-          
-          
-          <td>2017</td>
-          
-          
-          
-          <td>499.0</td>
-          
-          
-          
-          <td class="table-value">1,000 тонна</td>
-          
-          
-        </tr>
-        
-        <tr>
-          
-          
-          <td>2018</td>
-          
-          
-          
-          <td>363.0</td>
-          
-          
-          
-          <td class="table-value">1,000 тонна</td>
-          
-          
-        </tr>
-        
-        <tr>
-          
-          
-          <td>2019</td>
-          
-          
-          
-          <td>273.8</td>
-          
-          
-          
-          <td class="table-value">1,000 тонна</td>
-          
-          
-        </tr>
-        
-        <tr>
-          
-          
-          <td>2020</td>
-          
-          
-          
-          <td>256.1</td>
-          
-          
-          
-          <td class="table-value">1,000 тонна</td>
-          
-          
-        </tr>
-        
-        <tr>
-          
-          
-          <td>2021</td>
-          
-          
-          
-          <td>217.2</td>
-          
-          
-          
-          <td class="table-value">1,000 тонна</td>
-          
-          
-        </tr>
-        
-        <tr>
-          
-          
-          <td>2022</td>
-          
-          
-          
-          <td>211.9</td>
-          
-          
-          
-          <td class="table-value">1,000 тонна</td>
-          
-          
-        </tr>
-        
-        <tr>
-          
-          
-          <td>2023</td>
-          
-          
-          
-          <td>232.9</td>
-          
-          
-          
-          <td class="table-value">1,000 тонна</td>
-          
-          
-        </tr>
-        
-      </tbody>
-    </table>
+    <h3>Данные по заголовкам отсутствуют</h3>
     
   </div>
 
-  
-  <div id="datatableFooter">
-    
-    <p>Источник: Армстат</p>
-    
-    
-    <p>Географический район: Армения</p>
-    
-    
-    <p>Единица измерения: 1,000 тонна</p>
-    
-    
-  </div>
   
 
 </div>
@@ -1068,7 +888,7 @@ data-event-label="Change to Sources tab"
         <th scope="row">Data last updated </th>
         <td>
           
-            Aug 28, 2024
+            Nov 07, 2024
           
         </td>
         </tr>
@@ -1414,7 +1234,7 @@ data-event-label="Change to Sources tab"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Поиск';</script>
 
-<script src='/sdg-site-armenia/assets/js/sdg.js?v=20241107002252'></script>
+<script src='/sdg-site-armenia/assets/js/sdg.js?v=20241108002125'></script>
 
 <script>
     new indicatorInit();
