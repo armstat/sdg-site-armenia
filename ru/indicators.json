@@ -563,7 +563,7 @@
           "description": "",
           "keywords": "",
           "href": "/ru/3-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-5-1-a",
@@ -803,7 +803,7 @@
           "description": "",
           "keywords": "",
           "href": "/ru/4-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-1-2",
@@ -815,8 +815,8 @@
         },
         {
           "id": "4-1-1b",
-          "title": "Доля детей в конце начальной школы, достигающих, по крайней мере, минимального уровня владения (i) чтением и (ii) математикой",
-          "description": "Показатель рассчитывается как процентная доля учеников 5-х классов и населения 10 лет.",
+          "title": "meta.name-4-1-1d",
+          "description": "meta.description-4-1-1-d",
           "keywords": "",
           "href": "/ru/4-1-1b/",
           "status": "complete"
@@ -827,6 +827,22 @@
           "description": "Показатель рассчитывается как процентная доля учеников 9-х классов и населения 14 лет.",
           "keywords": "",
           "href": "/ru/4-1-1c/",
+          "status": "complete"
+        },
+        {
+          "id": "4-1-1d",
+          "title": "global_indicators.4-1-1d-title",
+          "description": "",
+          "keywords": "",
+          "href": "/ru/4-1-1d/",
+          "status": "notstarted"
+        },
+        {
+          "id": "4-1-1e",
+          "title": "meta.name-4-1-1e",
+          "description": "meta.description-4-1-1-e",
+          "keywords": "",
+          "href": "/ru/4-1-1e/",
           "status": "complete"
         },
         {
@@ -867,6 +883,22 @@
           "description": "Валовый показатель охвата в системе общего образования по полу.",
           "keywords": "",
           "href": "/ru/4-3-1-a/",
+          "status": "complete"
+        },
+        {
+          "id": "4-3-1-b",
+          "title": "meta.name-4-3-1-b",
+          "description": "meta.description-4-3-1-b",
+          "keywords": "",
+          "href": "/ru/4-3-1-b/",
+          "status": "complete"
+        },
+        {
+          "id": "4-3-1-c",
+          "title": "meta.name-4-3-1-c",
+          "description": "meta.description-4-3-1-c",
+          "keywords": "",
+          "href": "/ru/4-3-1-c/",
           "status": "complete"
         },
         {
@@ -971,7 +1003,7 @@
           "description": "",
           "keywords": "",
           "href": "/ru/5-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-2-1",
@@ -1091,7 +1123,7 @@
           "description": "",
           "keywords": "",
           "href": "/ru/5-a-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-b-1",
@@ -2222,14 +2254,6 @@
           "status": "notstarted"
         },
         {
-          "id": "15-3-1-a",
-          "title": "Доля земель, нуждающиеся в улучшении, по отношению к общей площади суши",
-          "description": "Показатель описывает долю деградированных земель в общей площади суши страны.",
-          "keywords": "",
-          "href": "/ru/15-3-1-a/",
-          "status": "complete"
-        },
-        {
           "id": "15-4-1",
           "title": "Доля  важных с точки зрения биологического разнообразия горных районов, находящихся под охраной",
           "description": "",
@@ -2251,22 +2275,6 @@
           "description": "",
           "keywords": "",
           "href": "/ru/15-5-1/",
-          "status": "complete"
-        },
-        {
-          "id": "15-5-1-a-1",
-          "title": "Зарегистрированные виды позвоночных и беспозвоночных, из которых",
-          "description": "",
-          "keywords": "",
-          "href": "/ru/15-5-1-a-1/",
-          "status": "complete"
-        },
-        {
-          "id": "15-5-1-a-2",
-          "title": "Зарегистрированы высокие и низкие виды растений, из которых",
-          "description": "",
-          "keywords": "",
-          "href": "/ru/15-5-1-a-2/",
           "status": "complete"
         },
         {
@@ -2523,7 +2531,7 @@
           "description": "",
           "keywords": "",
           "href": "/ru/16-10-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-a-1",
@@ -2531,7 +2539,7 @@
           "description": "",
           "keywords": "",
           "href": "/ru/16-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-b-1",

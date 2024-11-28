@@ -563,7 +563,7 @@
           "description": "",
           "keywords": "",
           "href": "/3-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-5-1-a",
@@ -803,7 +803,7 @@
           "description": "",
           "keywords": "",
           "href": "/4-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-1-2",
@@ -815,8 +815,8 @@
         },
         {
           "id": "4-1-1b",
-          "title": "The share of children at the end of primary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
-          "description": "The indicator is calculated as a percentage of the 10-year-old population and 5th grade pupils",
+          "title": "meta.name-4-1-1d",
+          "description": "meta.description-4-1-1-d",
           "keywords": "",
           "href": "/4-1-1b/",
           "status": "complete"
@@ -827,6 +827,22 @@
           "description": "The indicator is calculated as a percentage of the 14-year-old population and 9th grade pupils",
           "keywords": "",
           "href": "/4-1-1c/",
+          "status": "complete"
+        },
+        {
+          "id": "4-1-1d",
+          "title": "global_indicators.4-1-1d-title",
+          "description": "",
+          "keywords": "",
+          "href": "/4-1-1d/",
+          "status": "notstarted"
+        },
+        {
+          "id": "4-1-1e",
+          "title": "meta.name-4-1-1e",
+          "description": "meta.description-4-1-1-e",
+          "keywords": "",
+          "href": "/4-1-1e/",
           "status": "complete"
         },
         {
@@ -867,6 +883,22 @@
           "description": "Gross enrollment indicator at all educational levels by gender",
           "keywords": "",
           "href": "/4-3-1-a/",
+          "status": "complete"
+        },
+        {
+          "id": "4-3-1-b",
+          "title": "meta.name-4-3-1-b",
+          "description": "meta.description-4-3-1-b",
+          "keywords": "",
+          "href": "/4-3-1-b/",
+          "status": "complete"
+        },
+        {
+          "id": "4-3-1-c",
+          "title": "meta.name-4-3-1-c",
+          "description": "meta.description-4-3-1-c",
+          "keywords": "",
+          "href": "/4-3-1-c/",
           "status": "complete"
         },
         {
@@ -971,7 +1003,7 @@
           "description": "",
           "keywords": "",
           "href": "/5-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-2-1",
@@ -1091,7 +1123,7 @@
           "description": "",
           "keywords": "",
           "href": "/5-a-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-b-1",
@@ -2222,14 +2254,6 @@
           "status": "notstarted"
         },
         {
-          "id": "15-3-1-a",
-          "title": "Proportion of lands in need of improvement over total land area",
-          "description": "The indicator describes the share of degraded lands in the total land area of the country.",
-          "keywords": "",
-          "href": "/15-3-1-a/",
-          "status": "complete"
-        },
-        {
           "id": "15-4-1",
           "title": "Coverage by protected areas of important sites for mountain biodiversity",
           "description": "",
@@ -2251,22 +2275,6 @@
           "description": "",
           "keywords": "",
           "href": "/15-5-1/",
-          "status": "complete"
-        },
-        {
-          "id": "15-5-1-a-1",
-          "title": "Registered vertebrate and invertebrate species, of which",
-          "description": "",
-          "keywords": "",
-          "href": "/15-5-1-a-1/",
-          "status": "complete"
-        },
-        {
-          "id": "15-5-1-a-2",
-          "title": "Registered high and low plant species, of which",
-          "description": "",
-          "keywords": "",
-          "href": "/15-5-1-a-2/",
           "status": "complete"
         },
         {
@@ -2523,7 +2531,7 @@
           "description": "",
           "keywords": "",
           "href": "/16-10-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-a-1",
@@ -2531,7 +2539,7 @@
           "description": "",
           "keywords": "",
           "href": "/16-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-b-1",
