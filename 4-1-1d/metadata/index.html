@@ -140,7 +140,7 @@ var translations = {
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
-        <link rel="stylesheet" href="/assets/css/style.css?v=20241128142325">
+        <link rel="stylesheet" href="/assets/css/style.css?v=20241128214816">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -506,7 +506,7 @@ data-event-label="high"
     // Set values according to this site's configuration.
     
       try {
-        var currentValue = normalizeCurrentValue('indicator_name', "global_indicators.4-1-1d-title");
+        var currentValue = normalizeCurrentValue('indicator_name', "meta.name-4-1-1d");
         var propertyEditor = editor.getEditor('root.indicator_name');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -520,12 +520,36 @@ data-event-label="high"
 
     propertyEditorAccessibilityFixes(editor.getEditor('root.global_indicator_name'));
 
+    
+      try {
+        var currentValue = normalizeCurrentValue('indicator', "4.1.1d");
+        var propertyEditor = editor.getEditor('root.indicator');
+        propertyEditor.setValue(null);
+        propertyEditor.setValue(currentValue);
+        
+      }
+      catch (e) {
+        console.log(e.message);
+        console.log('Unable to set config key: indicator');
+      }
     propertyEditorAccessibilityFixes(editor.getEditor('root.indicator'));
 
     propertyEditorAccessibilityFixes(editor.getEditor('root.global_indicator'));
 
     propertyEditorAccessibilityFixes(editor.getEditor('root.target'));
 
+    
+      try {
+        var currentValue = normalizeCurrentValue('target_id', "4.1");
+        var propertyEditor = editor.getEditor('root.target_id');
+        propertyEditor.setValue(null);
+        propertyEditor.setValue(currentValue);
+        
+      }
+      catch (e) {
+        console.log(e.message);
+        console.log('Unable to set config key: target_id');
+      }
     propertyEditorAccessibilityFixes(editor.getEditor('root.target_id'));
 
     propertyEditorAccessibilityFixes(editor.getEditor('root.indicator_definition'));
@@ -544,20 +568,116 @@ data-event-label="high"
 
     propertyEditorAccessibilityFixes(editor.getEditor('root.national_indicator_available'));
 
+    
+      try {
+        var currentValue = normalizeCurrentValue('national_indicator_description', "meta.description-4-1-1-d");
+        var propertyEditor = editor.getEditor('root.national_indicator_description');
+        propertyEditor.setValue(null);
+        propertyEditor.setValue(currentValue);
+        
+      }
+      catch (e) {
+        console.log(e.message);
+        console.log('Unable to set config key: national_indicator_description');
+      }
     propertyEditorAccessibilityFixes(editor.getEditor('root.national_indicator_description'));
 
+    
+      try {
+        var currentValue = normalizeCurrentValue('national_geographical_coverage', "custom.armenia");
+        var propertyEditor = editor.getEditor('root.national_geographical_coverage');
+        propertyEditor.setValue(null);
+        propertyEditor.setValue(currentValue);
+        
+      }
+      catch (e) {
+        console.log(e.message);
+        console.log('Unable to set config key: national_geographical_coverage');
+      }
     propertyEditorAccessibilityFixes(editor.getEditor('root.national_geographical_coverage'));
 
+    
+      try {
+        var currentValue = normalizeCurrentValue('computation_units', "%");
+        var propertyEditor = editor.getEditor('root.computation_units');
+        propertyEditor.setValue(null);
+        propertyEditor.setValue(currentValue);
+        
+      }
+      catch (e) {
+        console.log(e.message);
+        console.log('Unable to set config key: computation_units');
+      }
     propertyEditorAccessibilityFixes(editor.getEditor('root.computation_units'));
 
+    
+      try {
+        var currentValue = normalizeCurrentValue('computation_definitions', "meta.definitions-4-1-1-d");
+        var propertyEditor = editor.getEditor('root.computation_definitions');
+        propertyEditor.setValue(null);
+        propertyEditor.setValue(currentValue);
+        
+      }
+      catch (e) {
+        console.log(e.message);
+        console.log('Unable to set config key: computation_definitions');
+      }
     propertyEditorAccessibilityFixes(editor.getEditor('root.computation_definitions'));
 
+    
+      try {
+        var currentValue = normalizeCurrentValue('computation_calculations', "meta.calculations-4-1-1-d");
+        var propertyEditor = editor.getEditor('root.computation_calculations');
+        propertyEditor.setValue(null);
+        propertyEditor.setValue(currentValue);
+        
+      }
+      catch (e) {
+        console.log(e.message);
+        console.log('Unable to set config key: computation_calculations');
+      }
     propertyEditorAccessibilityFixes(editor.getEditor('root.computation_calculations'));
 
+    
+      try {
+        var currentValue = normalizeCurrentValue('comments_limitations', "meta.comments-4-1-1-d");
+        var propertyEditor = editor.getEditor('root.comments_limitations');
+        propertyEditor.setValue(null);
+        propertyEditor.setValue(currentValue);
+        
+      }
+      catch (e) {
+        console.log(e.message);
+        console.log('Unable to set config key: comments_limitations');
+      }
     propertyEditorAccessibilityFixes(editor.getEditor('root.comments_limitations'));
 
+    
+      try {
+        var currentValue = normalizeCurrentValue('national_data_updated_date', "2024-11-28");
+        var propertyEditor = editor.getEditor('root.national_data_updated_date');
+        propertyEditor.setValue(null);
+        propertyEditor.setValue(currentValue);
+        
+      }
+      catch (e) {
+        console.log(e.message);
+        console.log('Unable to set config key: national_data_updated_date');
+      }
     propertyEditorAccessibilityFixes(editor.getEditor('root.national_data_updated_date'));
 
+    
+      try {
+        var currentValue = normalizeCurrentValue('national_metadata_updated_date', "2024-11-29");
+        var propertyEditor = editor.getEditor('root.national_metadata_updated_date');
+        propertyEditor.setValue(null);
+        propertyEditor.setValue(currentValue);
+        
+      }
+      catch (e) {
+        console.log(e.message);
+        console.log('Unable to set config key: national_metadata_updated_date');
+      }
     propertyEditorAccessibilityFixes(editor.getEditor('root.national_metadata_updated_date'));
 
     propertyEditorAccessibilityFixes(editor.getEditor('root.national_indicator_note'));
@@ -701,7 +821,7 @@ ga('send', 'pageview');
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Search';</script>
 
-<script src='/assets/js/sdg.js?v=20241128142325'></script>
+<script src='/assets/js/sdg.js?v=20241128214816'></script>
 
 <script>
     new indicatorInit();
