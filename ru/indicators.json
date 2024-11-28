@@ -563,7 +563,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/ru/3-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-5-1-a",
@@ -811,12 +811,12 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/ru/4-1-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-1-1b",
-          "title": "Доля детей в конце начальной школы, достигающих, по крайней мере, минимального уровня владения (i) чтением и (ii) математикой",
-          "description": "Показатель рассчитывается как процентная доля учеников 5-х классов и населения 10 лет.",
+          "title": "meta.name-4-1-1d",
+          "description": "meta.description-4-1-1-d",
           "keywords": "",
           "href": "/sdg-site-armenia/ru/4-1-1b/",
           "status": "complete"
@@ -827,6 +827,22 @@
           "description": "Показатель рассчитывается как процентная доля учеников 9-х классов и населения 14 лет.",
           "keywords": "",
           "href": "/sdg-site-armenia/ru/4-1-1c/",
+          "status": "complete"
+        },
+        {
+          "id": "4-1-1d",
+          "title": "global_indicators.4-1-1d-title",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-armenia/ru/4-1-1d/",
+          "status": "notstarted"
+        },
+        {
+          "id": "4-1-1e",
+          "title": "meta.name-4-1-1e",
+          "description": "meta.description-4-1-1-e",
+          "keywords": "",
+          "href": "/sdg-site-armenia/ru/4-1-1e/",
           "status": "complete"
         },
         {
@@ -843,7 +859,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/ru/4-2-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-2-2-a",
@@ -870,6 +886,22 @@
           "status": "complete"
         },
         {
+          "id": "4-3-1-b",
+          "title": "meta.name-4-3-1-b",
+          "description": "meta.description-4-3-1-b",
+          "keywords": "",
+          "href": "/sdg-site-armenia/ru/4-3-1-b/",
+          "status": "complete"
+        },
+        {
+          "id": "4-3-1-c",
+          "title": "meta.name-4-3-1-c",
+          "description": "meta.description-4-3-1-c",
+          "keywords": "",
+          "href": "/sdg-site-armenia/ru/4-3-1-c/",
+          "status": "complete"
+        },
+        {
           "id": "4-4-1",
           "title": "Доля молодых и взрослых людей, обладающих навыками в области информационно-коммуникационных технологий, в разбивке по видам навыков",
           "description": "",
@@ -891,7 +923,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/ru/4-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-5-1-a",
@@ -923,7 +955,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/ru/4-7-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-a-1",
@@ -939,7 +971,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/ru/4-b-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-c-1",
