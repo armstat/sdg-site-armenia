@@ -886,22 +886,6 @@
           "status": "complete"
         },
         {
-          "id": "4-3-1-b",
-          "title": "meta.name-4-3-1-b",
-          "description": "meta.description-4-3-1-b",
-          "keywords": "",
-          "href": "/ru/4-3-1-b/",
-          "status": "complete"
-        },
-        {
-          "id": "4-3-1-c",
-          "title": "meta.name-4-3-1-c",
-          "description": "meta.description-4-3-1-c",
-          "keywords": "",
-          "href": "/ru/4-3-1-c/",
-          "status": "complete"
-        },
-        {
           "id": "4-4-1",
           "title": "Доля молодых и взрослых людей, обладающих навыками в области информационно-коммуникационных технологий, в разбивке по видам навыков",
           "description": "",
@@ -2059,7 +2043,7 @@
           "description": "",
           "keywords": "",
           "href": "/ru/13-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "13-2-2",
@@ -2083,7 +2067,7 @@
           "description": "",
           "keywords": "",
           "href": "/ru/13-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "13-b-1",
@@ -2091,7 +2075,7 @@
           "description": "",
           "keywords": "",
           "href": "/ru/13-b-1/",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
