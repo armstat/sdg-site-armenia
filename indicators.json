@@ -822,43 +822,43 @@
           "status": "complete"
         },
         {
+          "id": "4-1-1-b",
+          "title": "The share of children at the end of primary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
+          "description": "The indicator is calculated as a percentage of the 10-year-old population and 5th grade pupils",
+          "keywords": "",
+          "href": "/sdg-site-armenia/4-1-1-b/",
+          "status": "complete"
+        },
+        {
+          "id": "4-1-1-c",
+          "title": "The share of children at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
+          "description": "The indicator is calculated as a percentage of the 14-year-old population and 9th grade pupils",
+          "keywords": "",
+          "href": "/sdg-site-armenia/4-1-1-c/",
+          "status": "complete"
+        },
+        {
+          "id": "4-1-1-d",
+          "title": "Proportion of children and young people who, at the end of lower secondary education, achieved at least the minimum score in the 9th-grade completion exam in (i) Armenian language",
+          "description": "meta.description-4-1-1-d",
+          "keywords": "",
+          "href": "/sdg-site-armenia/4-1-1-d/",
+          "status": "complete"
+        },
+        {
+          "id": "4-1-1-e",
+          "title": "Proportion of children and young people who, at the end of lower secondary education, achieved at least the minimum score in the 9th-grade completion exam in (ii) Armenian language",
+          "description": "meta.description-4-1-1-e",
+          "keywords": "",
+          "href": "/sdg-site-armenia/4-1-1-e/",
+          "status": "complete"
+        },
+        {
           "id": "4-1-2",
           "title": "Completion rate (primary education, lower secondary education, upper secondary education)",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/4-1-2/",
-          "status": "complete"
-        },
-        {
-          "id": "4-1-1b",
-          "title": "The share of children at the end of primary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
-          "description": "The indicator is calculated as a percentage of the 10-year-old population and 5th grade pupils",
-          "keywords": "",
-          "href": "/sdg-site-armenia/4-1-1b/",
-          "status": "complete"
-        },
-        {
-          "id": "4-1-1c",
-          "title": "The share of children at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
-          "description": "The indicator is calculated as a percentage of the 14-year-old population and 9th grade pupils",
-          "keywords": "",
-          "href": "/sdg-site-armenia/4-1-1c/",
-          "status": "complete"
-        },
-        {
-          "id": "4-1-1d",
-          "title": "meta.name-4-1-1d",
-          "description": "meta.description-4-1-1-d",
-          "keywords": "",
-          "href": "/sdg-site-armenia/4-1-1d/",
-          "status": "complete"
-        },
-        {
-          "id": "4-1-1e",
-          "title": "meta.name-4-1-1e",
-          "description": "meta.description-4-1-1-e",
-          "keywords": "",
-          "href": "/sdg-site-armenia/4-1-1e/",
           "status": "complete"
         },
         {
@@ -1563,7 +1563,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/9-3-2/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "9-4-1",
