@@ -1302,27 +1302,11 @@
           "status": "complete"
         },
         {
-          "id": "7-1-1-a",
-          "title": "Proportion of households with access to electricity",
-          "description": "The main source of information is a Integrated Living Conditions Survey (ILCS) (https://www.armstat.am/en/?nid=82&id=2217).",
-          "keywords": "",
-          "href": "/sdg-site-armenia/7-1-1-a/",
-          "status": "complete"
-        },
-        {
           "id": "7-1-2",
           "title": "Proportion of population with primary reliance on clean fuels and technology",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/7-1-2/",
-          "status": "complete"
-        },
-        {
-          "id": "7-1-2-a",
-          "title": "Proportion of households with primary reliance on clean fuels and technology",
-          "description": "Dividing the number of households primarily dependent on clean fuel and technology by the total number of households.",
-          "keywords": "",
-          "href": "/sdg-site-armenia/7-1-2-a/",
           "status": "complete"
         },
         {
