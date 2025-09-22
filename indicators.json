@@ -923,7 +923,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/4-6-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-6-1-a",
@@ -1444,6 +1444,14 @@
           "keywords": "",
           "href": "/sdg-site-armenia/8-9-1/",
           "status": "notstarted"
+        },
+        {
+          "id": "8-9-2",
+          "title": "Proportion of jobs in sustainable tourism industries out of total tourism jobs",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-armenia/8-9-2/",
+          "status": "complete"
         },
         {
           "id": "8-10-1",
