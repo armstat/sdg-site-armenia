@@ -2,7 +2,7 @@
 <html lang="ru" class="no-js">
     <head>
         <meta charset="utf-8">
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" integrity="sha384-bPV3mA2eo3edoq56VzcPBmG1N1QVUfjYMxVIJPPzyFJyFZ8GFfN7Npt06Zr23qts" crossorigin="anonymous"></script>
         <script crossorigin="anonymous" src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?version=4.8.0&features=Promise%2CString.prototype.includes%2CCustomEvent%2CArray.prototype.includes%2CArray.prototype.find%2CObject.assign%2CObject.values%2CObject.entries%2CArray.from%2CSet%2CArray.prototype.findIndex%2Cfetch"></script>
 <script crossorigin="anonymous" src="https://cdnjs.cloudflare.com/ajax/libs/javascript-canvas-to-blob/3.15.0/js/canvas-to-blob.min.js"></script>
 
@@ -43,6 +43,8 @@ var opensdg = {
   ignoredDisaggregations: null,
 
   language: 'ru',
+
+  language_numbers: 'ru',
 
   mapColors: {
     "default": [
@@ -138,7 +140,7 @@ var translations = {
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
-        <link rel="stylesheet" href="/assets/css/style.css?v=20250718121659">
+        <link rel="stylesheet" href="/assets/css/style.css?v=20250924135836">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -325,19 +327,19 @@ data-event-label="high"
         <h2 class="status-goal">
             Общий статус отчетности
         </h2>
-        <span class="total"><span>329</span> показатели</span>
+        <span class="total"><span>330</span> показатели</span>
         
         <div class="summary">
             <div class="statuses">
             
             <div>
-                <span class="status complete"><span class="status-inner">191</span></span><strong>Опубликован</strong><span class="value">58%</span>
+                <span class="status complete"><span class="status-inner">194</span></span><strong>Опубликован</strong><span class="value">59%</span>
             </div>
             
             
             
             <div>
-                <span class="status notstarted"><span class="status-inner">138</span></span><strong>В процессе разработки</strong><span class="value">42%</span>
+                <span class="status notstarted"><span class="status-inner">136</span></span><strong>В процессе разработки</strong><span class="value">41%</span>
             </div>
             <br style="clear:both;">
             </div>
@@ -347,14 +349,14 @@ data-event-label="high"
             
             
             
-            <span class="complete" style="width:58.05471124620061%" title="Опубликован: 58%"></span>
+            <span class="complete" style="width:58.78787878787879%" title="Опубликован: 59%"></span>
             
             
             
             
             
             
-            <span class="notstarted" style="width:41.94528875379939%" title="В процессе разработки: 42%"></span>
+            <span class="notstarted" style="width:41.21212121212121%" title="В процессе разработки: 41%"></span>
             </div>
         
     </div>
@@ -511,13 +513,13 @@ data-event-label="high"
             <div class="statuses">
                 
                 <div>
-                    <span class="status complete"><span class="status-inner">18</span></span><strong>Опубликован</strong><span class="value">82%</span>
+                    <span class="status complete"><span class="status-inner">19</span></span><strong>Опубликован</strong><span class="value">86%</span>
                 </div>
                 
                 
                 
                 <div>
-                    <span class="status notstarted"><span class="status-inner">4</span></span><strong>В процессе разработки</strong><span class="value">18%</span>
+                    <span class="status notstarted"><span class="status-inner">3</span></span><strong>В процессе разработки</strong><span class="value">14%</span>
                 </div>
                 <br style="clear:both;">
             </div>
@@ -527,14 +529,14 @@ data-event-label="high"
                 
                 
                 
-                <span class="complete" style="width:81.81818181818181%" title="Опубликован: 82%"></span>
+                <span class="complete" style="width:86.36363636363636%" title="Опубликован: 86%"></span>
                 
                 
                 
                 
                 
                 
-                <span class="notstarted" style="width:18.181818181818183%" title="В процессе разработки: 18%"></span>
+                <span class="notstarted" style="width:13.636363636363635%" title="В процессе разработки: 14%"></span>
                 </div>
         
         <div class="divider"></div>
@@ -685,19 +687,19 @@ data-event-label="high"
         <h3 class="status-goal">
             <a href="/ru/8/">Достойна работа и экономический рост</a>
         </h3>
-        <span class="total">18 показатели</span>
+        <span class="total">19 показатели</span>
         
         <div class="summary">
             <div class="statuses">
                 
                 <div>
-                    <span class="status complete"><span class="status-inner">11</span></span><strong>Опубликован</strong><span class="value">61%</span>
+                    <span class="status complete"><span class="status-inner">12</span></span><strong>Опубликован</strong><span class="value">63%</span>
                 </div>
                 
                 
                 
                 <div>
-                    <span class="status notstarted"><span class="status-inner">7</span></span><strong>В процессе разработки</strong><span class="value">39%</span>
+                    <span class="status notstarted"><span class="status-inner">7</span></span><strong>В процессе разработки</strong><span class="value">37%</span>
                 </div>
                 <br style="clear:both;">
             </div>
@@ -707,14 +709,14 @@ data-event-label="high"
                 
                 
                 
-                <span class="complete" style="width:61.11111111111112%" title="Опубликован: 61%"></span>
+                <span class="complete" style="width:63.1578947368421%" title="Опубликован: 63%"></span>
                 
                 
                 
                 
                 
                 
-                <span class="notstarted" style="width:38.88888888888889%" title="В процессе разработки: 39%"></span>
+                <span class="notstarted" style="width:36.84210526315789%" title="В процессе разработки: 37%"></span>
                 </div>
         
         <div class="divider"></div>
@@ -781,13 +783,13 @@ data-event-label="high"
             <div class="statuses">
                 
                 <div>
-                    <span class="status complete"><span class="status-inner">7</span></span><strong>Опубликован</strong><span class="value">44%</span>
+                    <span class="status complete"><span class="status-inner">8</span></span><strong>Опубликован</strong><span class="value">50%</span>
                 </div>
                 
                 
                 
                 <div>
-                    <span class="status notstarted"><span class="status-inner">9</span></span><strong>В процессе разработки</strong><span class="value">56%</span>
+                    <span class="status notstarted"><span class="status-inner">8</span></span><strong>В процессе разработки</strong><span class="value">50%</span>
                 </div>
                 <br style="clear:both;">
             </div>
@@ -797,14 +799,14 @@ data-event-label="high"
                 
                 
                 
-                <span class="complete" style="width:43.75%" title="Опубликован: 44%"></span>
+                <span class="complete" style="width:50.0%" title="Опубликован: 50%"></span>
                 
                 
                 
                 
                 
                 
-                <span class="notstarted" style="width:56.25%" title="В процессе разработки: 56%"></span>
+                <span class="notstarted" style="width:50.0%" title="В процессе разработки: 50%"></span>
                 </div>
         
         <div class="divider"></div>
@@ -1167,16 +1169,16 @@ data-event-label="high"
 
 <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-<script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
-<script src="https://cdn.datatables.net/1.11.5/js/dataTables.bootstrap5.min.js"></script>
+<script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js" integrity="sha384-ficRBwtap/VLzILv81vIvgp30PoJYnlCm96tPpNYHXAf+h9SIThOZxxIzRUzbpAh" crossorigin="anonymous"></script>
+<script src="https://cdn.datatables.net/1.11.5/js/dataTables.bootstrap5.min.js" integrity="sha384-jIAE3P7Re8BgMkT0XOtfQ6lzZgbDw/02WeRMJvXK3WMHBNynEx5xofqia1OHuGh0" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js" integrity="sha512-WFN04846sdKMIP5LKNphMaWzU7YpMyCU245etK3g/2ARYbPK9Ub18eG+ljU96qKRCWh+quCY7yefSmlkQw1ANQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.0/dist/chart.min.js" integrity="sha256-Y26AMvaIfrZ1EQU49pf6H4QzVTrOI8m9wQYKkftBt4s=" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/patternomaly@1.3.2/dist/patternomaly.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/patternomaly@1.3.2/dist/patternomaly.js" integrity="sha384-kdgUFNEbslNOEAQ/zFH9wjDORAbvN0KUYOpfJIJYPdjtzLXkZsMJAXU9HPpi5B5c" crossorigin="anonymous"></script>
 
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.3/dist/html2canvas.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.2/dist/FileSaver.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha384-eEX5kO4tdQpY+eTjDbZNPlMm4QhsK+kosSZtkzp+uZk0L5g0lSzmWXWHzKDoOzA7" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.3/dist/html2canvas.js" integrity="sha384-3qyhlVVDXXiWhzgKIoL/aw+uaXN5kyAFE0Jv2LGoV+nnQnum4ebt1QAtRbjnz9pL" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.2/dist/FileSaver.min.js" integrity="sha384-KQ8aykg/lc6595wSrMplFVs4kRS66x+EdkX7EQsJ2Pe6FX7l3tMqyD1Am0c2dKBG" crossorigin="anonymous"></script>
 
 
 
@@ -1207,7 +1209,7 @@ ga('send', 'pageview');
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Поиск';</script>
 
-<script src='/assets/js/sdg.js?v=20250718121659'></script>
+<script src='/assets/js/sdg.js?v=20250924135836'></script>
 
 <script>
     new indicatorInit();

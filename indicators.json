@@ -923,7 +923,7 @@
           "description": "",
           "keywords": "",
           "href": "/4-6-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-6-1-a",
@@ -1446,6 +1446,14 @@
           "status": "notstarted"
         },
         {
+          "id": "8-9-2",
+          "title": "Proportion of jobs in sustainable tourism industries out of total tourism jobs",
+          "description": "",
+          "keywords": "",
+          "href": "/8-9-2/",
+          "status": "complete"
+        },
+        {
           "id": "8-10-1",
           "title": "(a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults",
           "description": "",
@@ -1707,7 +1715,7 @@
           "description": "",
           "keywords": "",
           "href": "/10-7-4/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "10-a-1",
@@ -2591,7 +2599,7 @@
         },
         {
           "id": "17-3-1-a",
-          "title": "Foreign direct investments (FDI)",
+          "title": "Foreign direct investments",
           "description": "",
           "keywords": "",
           "href": "/17-3-1-a/",

@@ -923,7 +923,7 @@
           "description": "",
           "keywords": "",
           "href": "/ru/4-6-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "4-6-1-a",
@@ -1446,6 +1446,14 @@
           "status": "notstarted"
         },
         {
+          "id": "8-9-2",
+          "title": "Доля занятых в индустрии устойчивого туризмав общем числе рабочих мест в отрасли",
+          "description": "",
+          "keywords": "",
+          "href": "/ru/8-9-2/",
+          "status": "complete"
+        },
+        {
           "id": "8-10-1",
           "title": "Число  a) филиалов коммерческих банков на 100 000 взрослых и b) банкоматов на 100 000 взрослых",
           "description": "",
@@ -1707,7 +1715,7 @@
           "description": "",
           "keywords": "",
           "href": "/ru/10-7-4/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "10-a-1",
@@ -2591,7 +2599,7 @@
         },
         {
           "id": "17-3-1-a",
-          "title": "Прямые иностранные инвестиции (ПИИ)",
+          "title": "Прямые иностранные инвестиции",
           "description": "",
           "keywords": "",
           "href": "/ru/17-3-1-a/",
