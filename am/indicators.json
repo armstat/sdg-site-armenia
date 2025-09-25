@@ -286,6 +286,14 @@
           "status": "notstarted"
         },
         {
+          "id": "2-2-4",
+          "title": "global_indicators.2-2-4-title",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-armenia/am/2-2-4/",
+          "status": "complete"
+        },
+        {
           "id": "2-3-1",
           "title": "Մեկ աշխատանքի միավորին ընկնող արտադրության ծավալը ըստ գյուղատնտեսական/անասնապահական/անտառտնտեսության ձեռնարկությունների չափի դասերի",
           "description": "",
@@ -339,7 +347,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/am/2-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-a-2",
@@ -347,7 +355,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/am/2-a-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-b-1",
@@ -931,7 +939,7 @@
           "description": "Մանկական մահացության գործակիցը բնութագրում է նշված տարվա ընթացքում արձանագրված՝ մինչև 1 տարեկան հասակում մահացած երեխաների թվաքանակը:",
           "keywords": "",
           "href": "/sdg-site-armenia/am/4-6-1-a/",
-          "status": "complete"
+          "status": "notstarted"
         },
         {
           "id": "4-7-1",
@@ -1595,7 +1603,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/am/9-b-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-c-1",
@@ -1822,6 +1830,14 @@
           "status": "notstarted"
         },
         {
+          "id": "11-5-3",
+          "title": "global_indicators.11-5-3-title",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-armenia/am/11-5-3/",
+          "status": "complete"
+        },
+        {
           "id": "11-6-1",
           "title": "Կանոնավոր հավաքվող և համարժեք կերպով հեռացվող կոշտ կենցաղային թափոնների համամասնությունը՝ ընդհանուր առաջացած համայնքային թափոնների նկատմամբ՝ ըստ քաղաքների",
           "description": "",
@@ -2039,8 +2055,8 @@
         },
         {
           "id": "13-1-1-a",
-          "title": "global_indicators.13-1-1-a-title",
-          "description": "",
+          "title": "Գրանցված արտակարգ դեպքերից և պատահարներից տուժածների թիվը 100,000 մարդու հաշվով",
+          "description": "meta.description-31-1-1-a",
           "keywords": "",
           "href": "/sdg-site-armenia/am/13-1-1-a/",
           "status": "complete"
