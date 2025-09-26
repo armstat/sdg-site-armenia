@@ -286,14 +286,6 @@
           "status": "notstarted"
         },
         {
-          "id": "2-2-4",
-          "title": "global_indicators.2-2-4-title",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-armenia/2-2-4/",
-          "status": "complete"
-        },
-        {
           "id": "2-3-1",
           "title": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size",
           "description": "",
@@ -934,14 +926,6 @@
           "status": "complete"
         },
         {
-          "id": "4-6-1-a",
-          "title": "Literacy rate among population aged from 10-24 years old",
-          "description": "The indicator characterizes the proportion of population at age 10-24 years having a certain level of education according to the International Standard Classification of Education (primary, basic, secondary, pre-vocational, middle vocational, higher and postgraduate), as well as having no primary education (both learners and non-learners), but can read in whatever language, understand what he/she has read, or can describe a simple reality of his/her daily life in written.",
-          "keywords": "",
-          "href": "/sdg-site-armenia/4-6-1-a/",
-          "status": "notstarted"
-        },
-        {
           "id": "4-7-1",
           "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment",
           "description": "",
@@ -975,8 +959,8 @@
         },
         {
           "id": "4-c-1-a",
-          "title": "Proportion of trained teachers",
-          "description": "Proportion of teachers trained in the academic year out of the total number of teachers",
+          "title": "global_indicators.4-c-1-a-title",
+          "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/4-c-1-a/",
           "status": "complete"
@@ -1083,7 +1067,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/5-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-a-1-a-a",
@@ -1243,7 +1227,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/6-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "6-5-2",
@@ -1547,7 +1531,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/9-3-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-4-1",
@@ -1564,14 +1548,6 @@
           "keywords": "",
           "href": "/sdg-site-armenia/9-5-1/",
           "status": "notstarted"
-        },
-        {
-          "id": "9-5-1-a",
-          "title": "Proportions of gross state budget expenditures on the volume of scientific and technical work and research and development to GDP by indicators and years",
-          "description": "meta.description-9-5-1-a",
-          "keywords": "",
-          "href": "/sdg-site-armenia/9-5-1-a/",
-          "status": "complete"
         },
         {
           "id": "9-5-2",
@@ -1763,7 +1739,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/11-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-1-1-a",
@@ -1779,7 +1755,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/11-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-3-1",
@@ -1828,14 +1804,6 @@
           "keywords": "",
           "href": "/sdg-site-armenia/11-5-2/",
           "status": "notstarted"
-        },
-        {
-          "id": "11-5-3",
-          "title": "global_indicators.11-5-3-title",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-armenia/11-5-3/",
-          "status": "complete"
         },
         {
           "id": "11-6-1",
@@ -2651,7 +2619,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/17-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-6-1",

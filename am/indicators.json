@@ -286,14 +286,6 @@
           "status": "notstarted"
         },
         {
-          "id": "2-2-4",
-          "title": "global_indicators.2-2-4-title",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-armenia/am/2-2-4/",
-          "status": "complete"
-        },
-        {
           "id": "2-3-1",
           "title": "Մեկ աշխատանքի միավորին ընկնող արտադրության ծավալը ըստ գյուղատնտեսական/անասնապահական/անտառտնտեսության ձեռնարկությունների չափի դասերի",
           "description": "",
@@ -934,14 +926,6 @@
           "status": "complete"
         },
         {
-          "id": "4-6-1-a",
-          "title": "Բնակչության գրագիտության մակարդակը 10-24 տարիքային խմբում",
-          "description": "Մանկական մահացության գործակիցը բնութագրում է նշված տարվա ընթացքում արձանագրված՝ մինչև 1 տարեկան հասակում մահացած երեխաների թվաքանակը:",
-          "keywords": "",
-          "href": "/sdg-site-armenia/am/4-6-1-a/",
-          "status": "notstarted"
-        },
-        {
           "id": "4-7-1",
           "title": "Թե ինչ չափով են (i) գլոբալ քաղաքացիության կրթությունն ու (ii) կրթություն հանուն կայուն զարգացման առարկաները (ներառյալ կլիմայի փոփոխության մասին կրթությունը) ընդգրկված (ա) ազգային կրթության ռազմավարության, (բ) առարկայացանկի, (գ) ուսուցիչների վերապատրաստման, (դ) աշակերտների գնահատման մեջ",
           "description": "",
@@ -975,8 +959,8 @@
         },
         {
           "id": "4-c-1-a",
-          "title": "Վերապատրատված ուսուցիչների մասնաբաժինը",
-          "description": "Ուսումնական տարում վերապատրաստված ուսուցիչների մասնաբաժինը ուսուցիչների ընդհանուր թվաքանակից:",
+          "title": "global_indicators.4-c-1-a-title",
+          "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/am/4-c-1-a/",
           "status": "complete"
@@ -1083,7 +1067,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/am/5-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-a-1-a-a",
@@ -1243,7 +1227,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/am/6-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "6-5-2",
@@ -1547,7 +1531,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/am/9-3-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-4-1",
@@ -1564,14 +1548,6 @@
           "keywords": "",
           "href": "/sdg-site-armenia/am/9-5-1/",
           "status": "notstarted"
-        },
-        {
-          "id": "9-5-1-a",
-          "title": "Գիտատեխնիկական աշխատանքների ծավալի և հետազոտությունների ու մշակումների վրա պետական բյուջեից կատարված համախառն ծախսերի մասնաբաժինները ՀՆԱ-ի նկատմամբ ըստ ցուցանիշների և տարիների",
-          "description": "meta.description-9-5-1-a",
-          "keywords": "",
-          "href": "/sdg-site-armenia/am/9-5-1-a/",
-          "status": "complete"
         },
         {
           "id": "9-5-2",
@@ -1763,7 +1739,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/am/11-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-1-1-a",
@@ -1779,7 +1755,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/am/11-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-3-1",
@@ -1828,14 +1804,6 @@
           "keywords": "",
           "href": "/sdg-site-armenia/am/11-5-2/",
           "status": "notstarted"
-        },
-        {
-          "id": "11-5-3",
-          "title": "global_indicators.11-5-3-title",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-armenia/am/11-5-3/",
-          "status": "complete"
         },
         {
           "id": "11-6-1",
@@ -2651,7 +2619,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/am/17-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-6-1",
