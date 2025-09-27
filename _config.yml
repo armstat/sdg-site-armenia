@@ -8,7 +8,7 @@ baseurl: "/sdg-site-armenia"
 title: general.site_title
 url: ""
 environment: staging
-
+custom_css: true
 # Pages
 collections:
   pages:
