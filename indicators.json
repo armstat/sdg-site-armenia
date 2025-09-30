@@ -39,7 +39,7 @@
         },
         {
           "id": "1-3-1-a",
-          "title": "The share of registered disabled people to the total number of population at the end of the year",
+          "title": "Proportion of registered disabled people to the total number of population at the end of the year",
           "description": "In the indicator of the share of registered persons with disabilities at the end of the year from the total number of populations it is reflected the share of registered persons with disabilities from the total number of populations by sex and age, city, village.",
           "keywords": "",
           "href": "/sdg-site-armenia/1-3-1-a/",
@@ -54,43 +54,11 @@
           "status": "complete"
         },
         {
-          "id": "1-3-1-c",
-          "title": "The share of pensioners to the total number of population at the end of the year",
-          "description": "The indicator of the share of pensioners from the total number of populations at the end of the year is the share of pensioners at the end of the year from the total number of the population by gender and age, type of pension, and the population of the appropriate age.",
-          "keywords": "",
-          "href": "/sdg-site-armenia/1-3-1-c/",
-          "status": "complete"
-        },
-        {
           "id": "1-3-1-d",
           "title": "Ratio of elderly pensioners. Ratio of age pensioners and the retirement age stipulated by law and aged population",
           "description": "In the indicator it is included the ratio of age pensioners and 63 age and higher population by gender.",
           "keywords": "",
           "href": "/sdg-site-armenia/1-3-1-d/",
-          "status": "complete"
-        },
-        {
-          "id": "1-3-1-e",
-          "title": "The share of families receiving family benefits to households",
-          "description": "In the indicator it is reflected the share of families receiving family allowance from the total number of households.",
-          "keywords": "",
-          "href": "/sdg-site-armenia/1-3-1-e/",
-          "status": "complete"
-        },
-        {
-          "id": "1-3-1-f",
-          "title": "The share of families receiving social benefits to households",
-          "description": "The indicator is the share of families receiving social benefits from the total number of households.",
-          "keywords": "",
-          "href": "/sdg-site-armenia/1-3-1-f/",
-          "status": "complete"
-        },
-        {
-          "id": "1-3-1-g",
-          "title": "The share of beneficiaries of old age, disability and in case of losing a breadwinner to the total number of population at the end of the year",
-          "description": "The indicator of the share of beneficiaries in the case of old age, disability and loss of breadwinner at the end of the year from the total number of populations is the share of the beneficiaries at the end of the year from the total number of populations in the case of old age, disability and the loss of breadwinner.",
-          "keywords": "",
-          "href": "/sdg-site-armenia/1-3-1-g/",
           "status": "complete"
         },
         {
@@ -126,35 +94,11 @@
           "status": "complete"
         },
         {
-          "id": "1-3-1-jc",
-          "title": "Number of beneficiaries receiving maternity benefits granted to non-employed person at the end of the year",
-          "description": "The number of beneficiaries receiving maternity benefits for unemployed persons, at the end of the year.",
-          "keywords": "",
-          "href": "/sdg-site-armenia/1-3-1-jc/",
-          "status": "complete"
-        },
-        {
           "id": "1-3-1-j",
           "title": "Children with disabilities living in orphanages (aged 0-17 years) at the end of the year",
           "description": "Disabled children living in orphanages (0-17 years old), at the end of the year is the number of disabled children living in orphanages (0-17 years old) at the end of the year and the share of disabled children living in orphanages from 0-17 years old population",
           "keywords": "",
           "href": "/sdg-site-armenia/1-3-1-j/",
-          "status": "complete"
-        },
-        {
-          "id": "1-3-1-ka",
-          "title": "Share of poor population who receive family benefit",
-          "description": "This indicator is the ratio of family benefit recipients to the total number of vulnerable people. The latter is calculated by subtracting from the total population all persons of working age who are included in the social insurance system or receive benefits, as well as all persons of retirement age who also receive benefits.",
-          "keywords": "",
-          "href": "/sdg-site-armenia/1-3-1-ka/",
-          "status": "complete"
-        },
-        {
-          "id": "1-3-1-kb",
-          "title": "Share of poor population who receive social assistance, including family benefit",
-          "description": "This indicator is calculated by dividing the number of beneficiaries, the recipients of social assistance (including family benefits) in the total population (or group) by the total number of population (or group).",
-          "keywords": "",
-          "href": "/sdg-site-armenia/1-3-1-kb/",
           "status": "complete"
         },
         {
@@ -630,38 +574,6 @@
           "status": "complete"
         },
         {
-          "id": "3-8-1-a",
-          "title": "Providing antenatal care and care by qualified specialis",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-armenia/3-8-1-a/",
-          "status": "complete"
-        },
-        {
-          "id": "3-8-1-b",
-          "title": "At least one ultrasound examination during pregnancy",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-armenia/3-8-1-b/",
-          "status": "complete"
-        },
-        {
-          "id": "3-8-1-c",
-          "title": "During the first two days after birth, the mother's postnatal check",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-armenia/3-8-1-c/",
-          "status": "complete"
-        },
-        {
-          "id": "3-8-1-d",
-          "title": "During the first two days after birth, the newborn testing",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-armenia/3-8-1-d/",
-          "status": "complete"
-        },
-        {
           "id": "3-8-2",
           "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income",
           "description": "",
@@ -806,35 +718,19 @@
           "status": "complete"
         },
         {
-          "id": "4-1-1-b",
-          "title": "The share of children at the end of primary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
-          "description": "The indicator is calculated as a percentage of the 10-year-old population and 5th grade pupils",
-          "keywords": "",
-          "href": "/sdg-site-armenia/4-1-1-b/",
-          "status": "complete"
-        },
-        {
-          "id": "4-1-1-c",
-          "title": "The share of children at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics",
-          "description": "The indicator is calculated as a percentage of the 14-year-old population and 9th grade pupils",
-          "keywords": "",
-          "href": "/sdg-site-armenia/4-1-1-c/",
-          "status": "complete"
-        },
-        {
-          "id": "4-1-1-d",
+          "id": "4-1-1-a",
           "title": "Proportion of children and young people who, at the end of lower secondary education, achieved at least the minimum score in the 9th-grade completion exam in (i) Armenian language",
           "description": "meta.description-4-1-1-d",
           "keywords": "",
-          "href": "/sdg-site-armenia/4-1-1-d/",
+          "href": "/sdg-site-armenia/4-1-1-a/",
           "status": "complete"
         },
         {
-          "id": "4-1-1-e",
+          "id": "4-1-1-b",
           "title": "Proportion of children and young people who, at the end of lower secondary education, achieved at least the minimum score in the 9th-grade completion exam in (ii) Armenian language",
           "description": "meta.description-4-1-1-e",
           "keywords": "",
-          "href": "/sdg-site-armenia/4-1-1-e/",
+          "href": "/sdg-site-armenia/4-1-1-b/",
           "status": "complete"
         },
         {
@@ -1539,7 +1435,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/9-5-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-5-2",
@@ -2211,14 +2107,6 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/15-1-2/",
-          "status": "notstarted"
-        },
-        {
-          "id": "15-1-2-a",
-          "title": "Number and proportion of protected areas in the country by categories",
-          "description": "The indicator describes the number of areas with special protection regime and the ratio to the total area of the country according to the categories defined by the International Organization for Conservation of Nature.",
-          "keywords": "",
-          "href": "/sdg-site-armenia/15-1-2-a/",
           "status": "complete"
         },
         {
