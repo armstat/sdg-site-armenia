@@ -475,7 +475,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/ru/3-3-5/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-5-a",
@@ -2187,7 +2187,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/ru/15-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-b-1",
@@ -2195,7 +2195,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/ru/15-b-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-c-1",
@@ -2483,14 +2483,6 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/ru/17-4-1/",
-          "status": "notstarted"
-        },
-        {
-          "id": "17-4-1-a",
-          "title": "Обслуживание государственного внешнего долга в процентах к экспорту товаров и услуг",
-          "description": "Показатель дает возможность оценить проблемы, связанные с обслуживанием внешнего долга страны. Источником информации  являются справки Министерства финансов Республики Армения о внешнем государственном долге Республики Армения, который считается административным регистром, в том числе внешний государственный долг Республики Армения, образованный кредитно-ссудными договорами, обслуживание долга, поступления внешних кредитных средств.",
-          "keywords": "",
-          "href": "/sdg-site-armenia/ru/17-4-1-a/",
           "status": "complete"
         },
         {
@@ -2515,7 +2507,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/ru/17-7-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-8-1",

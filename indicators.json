@@ -475,7 +475,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/3-3-5/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-5-a",
@@ -728,7 +728,7 @@
         {
           "id": "4-1-1-b",
           "title": "Proportion of children and young people who, at the end of lower secondary education, achieved at least the minimum score in the 9th-grade completion exam in (ii) mathematics",
-          "description": "The indicator is calculated as a percentage of the 10-year-old population and 5th grade pupils",
+          "description": "meta.description-4-1-1-b",
           "keywords": "",
           "href": "/sdg-site-armenia/4-1-1-b/",
           "status": "complete"
@@ -2187,7 +2187,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/15-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-b-1",
@@ -2195,7 +2195,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/15-b-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-c-1",
@@ -2483,14 +2483,6 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/17-4-1/",
-          "status": "notstarted"
-        },
-        {
-          "id": "17-4-1-a",
-          "title": "External public debt service as a proportion of exports of goods and services",
-          "description": "The indicator provides an opportunity to assess the problems related to the country's foreign debt service. The source of information is the references provided by the Ministry of Finance of the Republic of Armenia on the external public debt of the Republic of Armenia, which is considered as an administrative register, including the external public debt of the Republic of Armenia formed by credit-loan agreements, debt service, foreign loan receipts.",
-          "keywords": "",
-          "href": "/sdg-site-armenia/17-4-1-a/",
           "status": "complete"
         },
         {
@@ -2515,7 +2507,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/17-7-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-8-1",

@@ -475,7 +475,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/am/3-3-5/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "3-3-5-a",
@@ -2187,7 +2187,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/am/15-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-b-1",
@@ -2195,7 +2195,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/am/15-b-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-c-1",
@@ -2483,14 +2483,6 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/am/17-4-1/",
-          "status": "notstarted"
-        },
-        {
-          "id": "17-4-1-a",
-          "title": "Արտաքին պետական պարտքի սպասարկումն ապրանքների և ծառայությունների արտահանման նկատմամբ՝ տոկոսային արտահայտությամբ",
-          "description": "Ցուցանիշը հնարավորություն է տաալիս գնահատելու երկրի արտաքին պարտքի սպասարկման հետ կապված խնդիրները: Տեղեկատվության աղբյուր է հանդիսանում որպես վարչական ռեգիստր համարվող ՀՀ ֆինանսների նախարարության կողմից ՀՀ ՎԿ տրամադրվող տեղեկանքները ՀՀ արտաքին պետական պարտքի վերաբերյալ, այդ թվում` վարկային և փոխառության պայմանագրերով ձևավորված ՀՀ արտաքին պետական պարտքը, պարտքի սպասարկումը և արտաքին վարկային միջոցների ստացումները:",
-          "keywords": "",
-          "href": "/sdg-site-armenia/am/17-4-1-a/",
           "status": "complete"
         },
         {
@@ -2515,7 +2507,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/am/17-7-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-8-1",
