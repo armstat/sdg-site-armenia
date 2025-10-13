@@ -139,7 +139,7 @@
           "description": "",
           "keywords": "",
           "href": "/1-5-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-5-3",
@@ -307,14 +307,6 @@
           "description": "",
           "keywords": "",
           "href": "/2-c-1/",
-          "status": "notstarted"
-        },
-        {
-          "id": "2-c-1-a",
-          "title": "Food and non-alcoholic beverages price index (compared to the previous year)",
-          "description": "The food and non-alcoholic beverages index shows the monthly changes in the prices of goods food purchased by households in the consumer market of the Republic of Armenia. Basic objects of the price observation are grouped into 3 conventional groups. In each group of the basic objects the price observation is conducted once per the given month, excluding fresh fruits and vegetables, the price observation of which in all basic objects is conducted 3 times per month (at 1, 10 and 20 of each month and the nearly days). Two to three representatives with clear descriptions are selected for each product.",
-          "keywords": "",
-          "href": "/2-c-1-a/",
           "status": "complete"
         }]
     }
@@ -1691,7 +1683,7 @@
           "description": "",
           "keywords": "",
           "href": "/11-5-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "11-6-1",
@@ -1827,7 +1819,7 @@
           "description": "",
           "keywords": "",
           "href": "/12-4-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "12-4-2",
@@ -2115,7 +2107,7 @@
           "description": "",
           "keywords": "",
           "href": "/15-2-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-3-1",
@@ -2123,7 +2115,7 @@
           "description": "",
           "keywords": "",
           "href": "/15-3-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-4-1",
@@ -2131,7 +2123,7 @@
           "description": "",
           "keywords": "",
           "href": "/15-4-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-4-2",
@@ -2139,7 +2131,7 @@
           "description": "",
           "keywords": "",
           "href": "/15-4-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-5-1",
@@ -2171,7 +2163,7 @@
           "description": "",
           "keywords": "",
           "href": "/15-8-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-9-1",
@@ -2179,7 +2171,7 @@
           "description": "",
           "keywords": "",
           "href": "/15-9-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "15-a-1",
