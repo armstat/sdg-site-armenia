@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="ru" class="no-js">
     <head>
         <meta charset="utf-8">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" integrity="sha384-bPV3mA2eo3edoq56VzcPBmG1N1QVUfjYMxVIJPPzyFJyFZ8GFfN7Npt06Zr23qts" crossorigin="anonymous"></script>
@@ -11,7 +11,7 @@
 var opensdg = {
 
   // A base URL for asynchronous calls to SDG data.
-  remoteDataBaseUrl: 'https://armstat.github.io/sdg-data-armenia/prod/en',
+  remoteDataBaseUrl: 'https://armstat.github.io/sdg-data-armenia/prod/ru',
 
   chartConfigAlterations: [],
   // A hook which can be used to modify the configuration for Chart.js.
@@ -42,9 +42,9 @@ var opensdg = {
   // Disaggregations which should be ignored on indicator pages.
   ignoredDisaggregations: null,
 
-  language: 'en',
+  language: 'ru',
 
-  language_numbers: 'en',
+  language_numbers: 'ru',
 
   mapColors: {
     "default": [
@@ -119,7 +119,7 @@ var translations = {
         ================================================== -->
 
         
-    <title>Edit Data: 9.5.2.a - Indicators For The Sustainable Development Goals</title>
+    <title>Редактировать метаданные: 2.c.1 (1) - Показатели Целей устойчивого развития</title>
 
 
 
@@ -142,7 +142,7 @@ var translations = {
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
         <link res="stylesheet" href="https://cdn.datatables.net/1.11.5/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
-        <link rel="stylesheet" href="/assets/css/style.css?v=20251014060432">
+        <link rel="stylesheet" href="/assets/css/style.css?v=20251015065825">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -163,25 +163,25 @@ var translations = {
         
 
     </head>
-<body class="language-en
-layout-data-editor
+<body class="language-ru
+layout-config-builder
 ">
 <!-- <div class="container"> -->
 
-<script>translations['header'] = {"alpha":"Alpha","default_contrast":"Default contrast","disable_high_contrast":"Disable high contrast","disclaimer":"This is a development website. We welcome your <a href=\"mailto:%email_contacts.suggestions\">feedback</a>.","enable_high_contrast":"Enable high contrast","hide_menu":"Hide navigation menu","high_contrast":"High contrast","internet_explorer_message":"We have detected that you are using Internet Explorer to visit this website. Internet Explorer is now being phased out by Microsoft. As a result, this website no longer supports any version of Internet Explorer. Some features on this site will not work. You should use a modern browser such as Edge, Chrome, Firefox, or Safari. If you have difficulty installing or accessing a different browser, please contact your IT support team.","internet_explorer_message_title":"This internet browser is no longer supported","logo_title":"Go to homepage","show_menu":"Show navigation menu","skip_link":"Skip to main content","tag_line":"17 Goals to Transform our World","toggle_menu":"Menu toggle. Click to expand or collapse the menu.","toggle_search":"Search toggle. Click to expand or collapse the search bar."};</script>
+<script>translations['header'] = {"alpha":"Альфа","default_contrast":"стандартный контраст","disable_high_contrast":"Отключить высокую контрастность","disclaimer":"Это сайт находится в разработке. Мы рады вашим отзывам.","enable_high_contrast":"Включить высокую контрастность","hide_menu":"Скрыть навигационное меню","high_contrast":"высокий контраст","internet_explorer_message":"Мы обнаружили, что для посещения этого сайта вы используете Internet Explorer. В настоящее время компания Microsoft постепенно отказывается от использования Internet Explorer. В результате этот сайт больше не поддерживает ни одну из версий Internet Explorer. Некоторые функции на этом сайте не будут работать. Вам следует использовать современный браузер, такой как Edge, Chrome, Firefox или Safari. Если у вас возникли трудности с установкой или доступом к другому браузеру, обратитесь в службу ИТ-поддержки.","internet_explorer_message_title":"Этот интернет-браузер больше не поддерживается","logo_title":"Перейти на главную страницу","show_menu":"Показать навигационное меню","skip_link":"Перейти к главному содержанию","tag_line":"17 Целей, чтобы преобразовать наш мир","toggle_menu":"Переключайте меню. Нажмите, чтобы развернуть или свернуть меню.","toggle_search":"Поисковая переключатель. Нажмите, чтобы развернуть или свернуть панель поиска."};</script>
 
-<a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
+<a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Перейти к главному содержанию</a>
 <div class="container internet-explorer-message">
-    <h2 class="internet-explorer-message-title">This internet browser is no longer supported</h2>
-    <p class="internet-explorer-message-body">We have detected that you are using Internet Explorer to visit this website. Internet Explorer is now being phased out by Microsoft. As a result, this website no longer supports any version of Internet Explorer. Some features on this site will not work. You should use a modern browser such as Edge, Chrome, Firefox, or Safari. If you have difficulty installing or accessing a different browser, please contact your IT support team.</p>
+    <h2 class="internet-explorer-message-title">Этот интернет-браузер больше не поддерживается</h2>
+    <p class="internet-explorer-message-body">Мы обнаружили, что для посещения этого сайта вы используете Internet Explorer. В настоящее время компания Microsoft постепенно отказывается от использования Internet Explorer. В результате этот сайт больше не поддерживает ни одну из версий Internet Explorer. Некоторые функции на этом сайте не будут работать. Вам следует использовать современный браузер, такой как Edge, Chrome, Firefox или Safari. Если у вас возникли трудности с установкой или доступом к другому браузеру, обратитесь в службу ИТ-поддержки.</p>
 </div>
 <div id="disclaimer">
     
 <div class="container">
   <div class="disclaimer-alert">
-    <strong class="phase-tag">Alpha</strong>
+    <strong class="phase-tag">Альфа</strong>
     
-    This is a development website. We welcome your <a href="mailto:info@armstat.am">feedback</a>.
+    Это сайт находится в разработке. Мы рады вашим отзывам.
     
   </div>
 </div>
@@ -191,34 +191,34 @@ layout-data-editor
 <header role="banner" class="">
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light flex-wrap align-items-start">
-            <a class="navbar-brand" href="/" id="home" aria-label="Go to homepage" title="Go to homepage">
-    <img src="/assets/img/SDG_logo.png" alt="Sustainable Development Goals - 17 Goals to Transform our World" />
+            <a class="navbar-brand" href="/ru/" id="home" aria-label="Перейти на главную страницу" title="Перейти на главную страницу">
+    <img src="/assets/img/SDG_logo.png" alt="Цели в области устойчивого развития - 17 Целей, чтобы преобразовать наш мир" />
 </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Show navigation menu">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Показать навигационное меню">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="d-flex flex-wrap w-100 justify-content-between">
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav" id="menu"><li class="nav-item ">
-    <a class="nav-link" href="/reporting-status">Reporting Status</a>
+    <a class="nav-link" href="/ru/reporting-status">Состояние отчётности</a>
 </li><li class="nav-item ">
-    <a class="nav-link" href="/about">About us</a>
+    <a class="nav-link" href="/ru/about">О нас</a>
 </li><li class="nav-item ">
-    <a class="nav-link" href="/guidance">Guidance</a>
+    <a class="nav-link" href="/ru/guidance">Руководство</a>
 </li><li class="nav-item ">
-    <a class="nav-link" href="/faq">FAQ</a>
+    <a class="nav-link" href="/ru/faq">Часто задаваемые вопросы</a>
 </li><li class="nav-item ">
-    <a class="nav-link" href="/dashboard/">Dashboard</a>
+    <a class="nav-link" href="/ru/dashboard/">Панель</a>
 </li></ul>
     
                 </div>
                 <div class="header-search-bar">
-                    <form class="align-self-lg-end" id="search" action="/search/">
+                    <form class="align-self-lg-end" id="search" action="/ru/search/">
     <div class="input-group">
-        <label class="visually-hidden" for="indicator_search">Search</label>
-        <input class="form-control" type="search" name="q" id="indicator_search" title="Search">
+        <label class="visually-hidden" for="indicator_search">Поиск</label>
+        <input class="form-control" type="search" name="q" id="indicator_search" title="Поиск">
         <span class="input-group-append">
-            <button class="btn btn-outline-secondary ms-n5" aria-label="Site search" id="search-btn" type="submit">
+            <button class="btn btn-outline-secondary ms-n5" aria-label="Поиск по сайту" id="search-btn" type="submit">
                 <i class="fa fa-search"></i>
             </button>
         </span>
@@ -237,15 +237,15 @@ layout-data-editor
   <div class="btn-group language-toggle-dropdown  dropdown">
     <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
       <i class="fa fa-globe"></i>
-      English
+      Pусский
     </button>
     <ul class="dropdown-menu"><li>
-            <a class="dropdown-item" href="/am/9-5-2-a/data/">
-              ՀԱՅԵՐԵՆ
+            <a class="dropdown-item" href="/2-c-1%20(1)/metadata/">
+              English
             </a>
           </li><li>
-            <a class="dropdown-item" href="/ru/9-5-2-a/data/">
-              Pусский
+            <a class="dropdown-item" href="/am/2-c-1%20(1)/metadata/">
+              ՀԱՅԵՐԵՆ
             </a>
           </li></ul>
   </div>
@@ -256,19 +256,19 @@ layout-data-editor
                     <span class="no-js-language-toggle"><div class="language-toggle-container d-flex">
     <i class="fa fa-globe language-toggle-globe-links"></i>
     <ul class="language-toggle-links list-unstyled list-inline"><li class="language-option-en list-inline-item">
-            <span class="language-toggle-active-language">
+            <a class="language-toggle-link" href="/2-c-1%20(1)/metadata/">
                 English
-            </span>
+            </a>
         </li><li class="language-option-hy list-inline-item">
-            <a class="language-toggle-link" href="/am/9-5-2-a/data/">
+            <a class="language-toggle-link" href="/am/2-c-1%20(1)/metadata/">
                 ՀԱՅԵՐԵՆ
             </a>
         </li><li class="language-option-ru list-inline-item">
-            <a class="language-toggle-link" href="/ru/9-5-2-a/data/">
+            <span class="language-toggle-active-language">
                 Pусский
-            </a>
+            </span>
         </li></ul>
-</div></span><a title="Enable high contrast" aria-label="Enable high contrast"
+</div></span><a title="Включить высокую контрастность" aria-label="Включить высокую контрастность"
     data-contrast-switch-to="" role="button" href="javascript:void(0)" data-on="click"
 data-event-category="Accessibility"
 data-event-action="Change contrast setting"
@@ -283,151 +283,48 @@ data-event-label="high"
 
 
 <div id="main-content" class="container" role="main">
-  <div class="row no-gutters">
-    <div class="col-md-12"><h1>Edit Data: 9.5.2.a</h1></div>
+  <div class="row">
+    <div class="col-md-12"><h1>Редактировать метаданные: 2.c.1 (1)</h1></div>
   </div>
-  <div class="row config-widgets">
-    <div class="col-md-6 data-grid-buttons">
-      <label for="add-column-name">Column name</label>
-      <input id="add-column-name" />
-      <button class="btn btn-primary btn-download" id="add-column">Add column</a>
-    </div>
-    <div class="col-md-6 data-download-buttons">
-      <button class="config-download-button btn btn-primary btn-download" id="export">Download data</button>
-      
-      
-      
-      
-      <a class="config-repository-button btn btn-primary btn-download" target="_blank" href="https://github.com/armstat/sdg-data-armenia/tree/develop/data">
-        Go to repository
-      </a>
-      
-    </div>
+  <div class="row">
+    <div id="root"></div>
   </div>
-  <div class="row no-gutters">
-    <div class="editor-wrapper col-md-12">
-      <div id="editor-holder" style="height: 900px; width: 100%;" class="ag-theme-alpine"></div>
-    </div>
-  </div>
-
-  <script src="https://unpkg.com/papaparse@5.3.2/papaparse.min.js" integrity="sha384-6kRQDsV2kVYRSENnw7WnekWKCx8/Lmv7rFKpDuR2AoIbjlBShlYcs3x0QlE3kuRh" crossorigin="anonymous"></script>
-  <script src="https://unpkg.com/ag-grid-community@31.3.2/dist/ag-grid-community.min.noStyle.js" integrity="sha384-mB1pF8hcopbD4D6xb7AkVSzhsKygs8E2sBFOUHWHCoZpA4Q6ixlJ3YS4nnwHnHb4" crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="https://unpkg.com/ag-grid-community@31.3.2/styles/ag-grid.css">
-  <link rel="stylesheet" href="https://unpkg.com/ag-grid-community@31.3.2/styles/ag-theme-alpine.css">
-
   <script>
-  var httpRequest;
-  var gridOptions;
-  var gridOptionsApi;
-  function makeRequest() {
-    httpRequest = new XMLHttpRequest();
-
-    if (!httpRequest) {
-      alert('Giving up :( Cannot create an XMLHTTP instance');
-      return false;
-    }
-    httpRequest.onreadystatechange = displaySpreadsheet;
-    httpRequest.open('GET', 'https://armstat.github.io/sdg-data-armenia/prod/untranslated/data/9-5-2-a.csv');
-    httpRequest.send();
-  }
-
-  function displaySpreadsheet() {
-    if (httpRequest.readyState === XMLHttpRequest.DONE) {
-      if (httpRequest.status === 200) {
-        var csvString = httpRequest.responseText;
-        var csvData = Papa.parse(csvString, {header: true});
-        var columnDefs = [],
-            rowData = [];
-        if (csvData.data.length > 0) {
-          rowData = csvData.data;
-          columnDefs = csvData.meta.fields.map(function(key) {
-            var columnDef = { field: key, headerName: key };
-            if (key === 'Value') {
-              columnDef['type'] = 'numericColumn';
-            }
-            return columnDef;
-          });
-        }
-        else {
-          columnDefs = [
-            {
-              field: 'Year',
-              headerName: 'Year',
+    opensdg.configForm = {
+      schema: null,
+      uiSchema: null,
+      initialData: null,
+      configFilename: "2-c-1 (1).yml",
+      configFolder: null,
+      githubClientId: null,
+      githubProxyUrl: null,
+      githubRepo: null,
+      githubOwner: null,
+      repositoryLink: "/tree/develop/meta",
+      configType: "metadata",
+    };
+    
+      opensdg.configForm.schema = {"type":"object","title":"Edit Metadata","properties":{"indicator_name":{"type":"string","title":"Indicator name","description":"Scope: global, Field: indicator_name"},"global_indicator_name":{"type":"string","title":"Global indicator name","description":"Scope: global, Field: global_indicator_name"},"indicator":{"type":"string","title":"Indicator number","description":"Scope: global, Field: indicator"},"global_indicator":{"type":"string","title":"Global indicator number","description":"Scope: global, Field: global_indicator"},"target":{"type":"string","title":"Target name","description":"Scope: global, Field: target"},"target_id":{"type":"string","title":"Target number","description":"Scope: global, Field: target_id"},"indicator_definition":{"type":"string","title":"Global indicator description","description":"Scope: global, Field: indicator_definition"},"un_designated_tier":{"type":"string","title":"UN designated tier","description":"Scope: global, Field: un_designated_tier"},"un_custodian_agency":{"type":"string","title":"UN custodian agency","description":"Scope: global, Field: un_custodian_agency"},"goal_meta_link":{"type":"string","title":"Link to UN metadata","description":"Scope: global, Field: goal_meta_link"},"goal_meta_link_text":{"type":"string","title":"Link to UN metadata text","description":"Scope: global, Field: goal_meta_link_text"},"indicator_note":{"type":"string","title":"Note","description":"Scope: global, Field: indicator_note"},"REC_USE_LIM":{"type":"string","title":"Comment and limitations","description":"Scope: global, Field: REC_USE_LIM"},"national_indicator_available":{"type":"string","title":"Indicator available","description":"Scope: national, Field: national_indicator_available"},"national_indicator_description":{"type":"string","title":"Indicator description","description":"Scope: national, Field: national_indicator_description"},"national_geographical_coverage":{"type":"string","title":"Geographical coverage","description":"Scope: national, Field: national_geographical_coverage"},"computation_units":{"type":"string","title":"Unit of measurement","description":"Scope: national, Field: computation_units"},"computation_definitions":{"type":"string","title":"Definitions","description":"Scope: national, Field: computation_definitions"},"computation_calculations":{"type":"string","title":"Calculations","description":"Scope: national, Field: computation_calculations"},"comments_limitations":{"type":"string","title":"Comments and limitations","description":"Scope: national, Field: comments_limitations"},"national_data_updated_date":{"type":"string","title":"Data last updated","description":"Scope: national, Field: national_data_updated_date"},"national_metadata_updated_date":{"type":"string","title":"Metadata last updated","description":"Scope: national, Field: national_metadata_updated_date"},"national_indicator_note":{"type":"string","title":"Note","description":"Scope: national, Field: national_indicator_note"}}}
+      opensdg.configForm.uiSchema = {
+        type: 'VerticalLayout',
+        elements: Object.keys(opensdg.configForm.schema.properties).map(function(metadataKey) {
+          return {
+            type: 'Control',
+            scope: '#/properties/' + metadataKey,
+            options: {
+              multi: true,
             },
-            {
-              field: 'Value',
-              headerName: 'Value',
-              type: 'numericColumn',
-            }
-          ];
-          rowData = [
-            {}
-          ];
-        }
-        var container = document.getElementById('editor-holder');
-        gridOptions = {
-          defaultColDef: {
-            editable: true,
-            resizable: true,
-            minWidth: 100,
-            flex: 1,
-          },
-          columnDefs: columnDefs,
-          rowData: rowData,
-          undoRedoCellEditing: true,
-          undoRedoCellEditingLimit: 5,
-          enterNavigatesVerticallyAfterEdit: true,
-          suppressDragLeaveHidesColumns: true,
-          onCellValueChanged: function(info) {
-            if (info.rowIndex + 1 === info.api.getDisplayedRowCount()) {
-              info.api.applyTransaction({
-                add: [{}],
-              });
-            }
-          }
-        };
-
-        gridOptionsApi = agGrid.createGrid(container, gridOptions);
-      } else {
-        alert('There was a problem when loading the data. Please edit the data in some other way (such as in Github).');
-      }
-    }
-  }
-
-  document.addEventListener('DOMContentLoaded', function() {
-    makeRequest();
-  });
-
-  document.getElementById('export').onclick = function() {
-    gridOptionsApi.stopEditing();
-    gridOptionsApi.exportDataAsCsv({
-      fileName: 'indicator_9-5-2-a',
-      shouldRowBeSkipped: function(row) {
-        return typeof row.node.data.Value === 'undefined';
-      },
-    });
-  }
-
-  document.getElementById('add-column').onclick = function() {
-    var columnName = document.getElementById('add-column-name').value;
-    if (columnName && columnName !== '') {
-      var columnDefs = gridOptions.columnDefs;
-      var newColumn = { field: columnName, headerName: columnName };
-      if (columnDefs.length > 1) {
-        // Put it second-to-last if possible.
-        columnDefs.splice(columnDefs.length - 1, 0, newColumn);
-      }
-      else {
-        // Otherwise just last.
-        columnDefs.push(newColumn);
-      }
-      gridOptionsApi.setGridOption('columnDefs', columnDefs);
-    }
-    else {
-      alert('Please enter a column name first and then try again.');
-    }
-  }
+          };
+        }),
+      };
+      opensdg.configForm.initialData = {"indicator_number":"2.c.1 (1)","target_number":"2.c","goal_number":"2","reporting_status":"complete","data_non_statistical":false,"graph_type":"line","indicator_sort_order":"02-0c-1 (1)","indicator_name":"global_indicators.2-c-1 (1)-title","graph_title":"global_indicators.2-c-1 (1)-title"};
+      opensdg.configForm.repoUrl = "https://github.com/armstat/sdg-data-armenia";
+    
   </script>
+  
+  
+  
+  <script src="https://open-sdg.org/open-sdg-config-form/bundle.js"></script>
 </div>
 <footer role="contentinfo">
     <div class="container">
@@ -436,15 +333,15 @@ data-event-label="high"
                 <div id="footerLinks">
                     <ul>
                         <li>
-                            <a href="https://open-sdg.org">Built using Open SDG</a>
+                            <a href="https://open-sdg.org">Построен с использованием Open SDG</a>
                         </li>
                         
                         <li>
-                            <a href="/faq">FAQ</a>
+                            <a href="/ru/faq">Часто задаваемые вопросы</a>
                             
                         </li>
                         <li>
-                            <a href="/about/cookies-and-privacy/">Cookies</a>
+                            <a href="/ru/about/cookies-and-privacy/">Cookies</a>
                             
                         </li>
                         
@@ -494,12 +391,12 @@ ga('send', 'pageview');
 
 
 <script>translations['general'] = translations['general'] || {};
-    translations['general']['hide'] = 'hide';</script>
+    translations['general']['hide'] = 'скрывать';</script>
 
 <script>translations['search'] = translations['search'] || {};
-    translations['search']['search'] = 'Search';</script>
+    translations['search']['search'] = 'Поиск';</script>
 
-<script src='/assets/js/sdg.js?v=20251014060432'></script>
+<script src='/assets/js/sdg.js?v=20251015065825'></script>
 
 <script>
     new indicatorInit();

@@ -308,6 +308,14 @@
           "keywords": "",
           "href": "/am/2-c-1/",
           "status": "complete"
+        },
+        {
+          "id": "2-c-1 (1)",
+          "title": "global_indicators.2-c-1 (1)-title",
+          "description": "",
+          "keywords": "",
+          "href": "/am/2-c-1 (1)/",
+          "status": "complete"
         }]
     }
   },
@@ -1438,14 +1446,6 @@
           "status": "complete"
         },
         {
-          "id": "9-5-2-a",
-          "title": "Պետական բյուջեի ֆինանսավորմամբ գիտահետազոտական աշխատանքներ իրականացնող հետազոտողների թիվը (լրիվ դրույքի համարժեքով) մեկ միլիոն բնակչի հաշվով",
-          "description": "meta.description-9-5-2-a",
-          "keywords": "",
-          "href": "/am/9-5-2-a/",
-          "status": "complete"
-        },
-        {
           "id": "9-a-1",
           "title": "Ընդհանուր միջազգային պաշտոնական օժանդակություն (զարգացմանն ուղղված պաշտոնական օգնություն՝ գումարած այլ պաշտոնական հոսքեր) ենթակառուցվածքներին",
           "description": "",
@@ -2547,7 +2547,7 @@
           "description": "",
           "keywords": "",
           "href": "/am/17-13-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-14-1",
