@@ -1247,7 +1247,7 @@
         },
         {
           "id": "8-4-2-a",
-          "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",
+          "title": "Value of final material consumption by households, value of final material consumption per capita, value of final material consumption per GDP",
           "description": "The value of goods purchased by RA resident households for final consumption, the same per capita and in relation to GDP.",
           "keywords": "",
           "href": "/sdg-site-armenia/8-4-2-a/",
@@ -2203,7 +2203,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/16-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "16-1-1-a",
