@@ -1371,7 +1371,7 @@
           "description": "",
           "keywords": "",
           "href": "/9-1-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-1-2",
@@ -2443,14 +2443,6 @@
           "description": "",
           "keywords": "",
           "href": "/17-3-1/",
-          "status": "complete"
-        },
-        {
-          "id": "17-3-1-a",
-          "title": "Foreign direct investments",
-          "description": "",
-          "keywords": "",
-          "href": "/17-3-1-a/",
           "status": "complete"
         },
         {
