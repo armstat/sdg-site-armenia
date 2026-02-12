@@ -163,7 +163,7 @@
           "description": "",
           "keywords": "",
           "href": "/ru/1-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-a-2",
@@ -1507,7 +1507,7 @@
           "description": "",
           "keywords": "",
           "href": "/ru/10-4-2/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "10-5-1",
@@ -2347,22 +2347,6 @@
           "description": "",
           "keywords": "",
           "href": "/ru/16-7-1/",
-          "status": "complete"
-        },
-        {
-          "id": "16-7-1-b",
-          "title": "Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",
-          "description": "meta.description-16-7-1-b",
-          "keywords": "",
-          "href": "/ru/16-7-1-b/",
-          "status": "complete"
-        },
-        {
-          "id": "16-7-1-c",
-          "title": "Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions.",
-          "description": "meta.description-16-7-1-c",
-          "keywords": "",
-          "href": "/ru/16-7-1-c/",
           "status": "complete"
         },
         {
