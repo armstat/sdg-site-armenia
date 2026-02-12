@@ -1131,7 +1131,7 @@
           "description": "",
           "keywords": "",
           "href": "/ru/6-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "6-b-1",
@@ -1443,7 +1443,7 @@
           "description": "",
           "keywords": "",
           "href": "/ru/9-a-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-b-1",
@@ -2350,6 +2350,22 @@
           "status": "complete"
         },
         {
+          "id": "16-7-1-b",
+          "title": "Proportions of positions in the public service (national and local), by various characteristics, compared to national distributions.",
+          "description": "meta.description-16-7-1-b",
+          "keywords": "",
+          "href": "/ru/16-7-1-b/",
+          "status": "complete"
+        },
+        {
+          "id": "16-7-1-c",
+          "title": "Proportions of positions in the judiciary (national and local), by various characteristics, compared to national distributions.",
+          "description": "meta.description-16-7-1-c",
+          "keywords": "",
+          "href": "/ru/16-7-1-c/",
+          "status": "complete"
+        },
+        {
           "id": "16-7-2",
           "title": "Доля  населения, считающего, что процесс принятия решений является всеобъемлющим и гибким, в разбивке по полу, возрасту, признаку инвалидности и прочим группам населения",
           "description": "",
@@ -2499,7 +2515,7 @@
           "description": "",
           "keywords": "",
           "href": "/ru/17-9-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-10-1",
@@ -2563,7 +2579,7 @@
           "description": "",
           "keywords": "",
           "href": "/ru/17-17-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "17-18-1",
