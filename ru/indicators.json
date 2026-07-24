@@ -179,7 +179,7 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/ru/1-b-1/",
-          "status": "complete"
+          "status": "notstarted"
         }]
     }
   },
@@ -1067,14 +1067,6 @@
           "description": "",
           "keywords": "",
           "href": "/sdg-site-armenia/ru/6-3-1/",
-          "status": "complete"
-        },
-        {
-          "id": "6-3-1-a",
-          "title": "Доля недостаточно очищенных сточных вод в общем объеме сточных вод, требующих очистки",
-          "description": "Показатель описывает долю недостаточно очищенных сточных вод в общем объеме очищенных сточных водах. Нормативно-чистые сточные воды не учитываются.",
-          "keywords": "",
-          "href": "/sdg-site-armenia/ru/6-3-1-a/",
           "status": "complete"
         },
         {
