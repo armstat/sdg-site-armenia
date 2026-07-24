@@ -43,7 +43,7 @@ def add_indicator(id, name):
     # First get all the languages for this site.
     languages = []
     try:
-        with open('_config.yml', 'r') as stream:
+        with open('_config.yml', 'r', encoding='utf-8') as stream:
             config = yaml.load(stream)
             languages = config['languages']
     except FileNotFoundError:
@@ -60,7 +60,7 @@ def add_indicator(id, name):
         # Special case for default language.
         if language == default_language:
             filepath = os.path.join('_indicators', filename)
-        f = open(filepath, 'w')
+        f = open(filepath, 'w', encoding='utf-8')
         f.write(content)
         f.close()
 
@@ -71,7 +71,7 @@ def add_indicator(id, name):
         os.makedirs(folder, exist_ok=True)
         filepath = os.path.join(folder, filename)
         content = get_translation_entry(id, name)
-        f = open(filepath, 'a')
+        f = open(filepath, 'a', encoding='utf-8')
         f.write("\n" + content)
         f.close()
 
