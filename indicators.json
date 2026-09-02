@@ -899,7 +899,7 @@
           "description": "",
           "keywords": "",
           "href": "/5-4-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "5-5-1",
@@ -1603,14 +1603,6 @@
           "description": "",
           "keywords": "",
           "href": "/11-1-1/",
-          "status": "complete"
-        },
-        {
-          "id": "11-1-1-a",
-          "title": "Proportion of persons living in households with inadequate housing conditions (temporary lodging, dwelling of joint residence, dormitory, other adapted accommodation, homeless).",
-          "description": "The indicator characterizes the share of urban households whose residential building was a lodge/temporary shelter, joint living quarters, dormitory, other living areas adapted for living, or homeless.",
-          "keywords": "",
-          "href": "/11-1-1-a/",
           "status": "complete"
         },
         {
