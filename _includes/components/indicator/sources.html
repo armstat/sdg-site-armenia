@@ -15,16 +15,18 @@
   </tr>
 
   <!-- The link field -->
-  <tr>
-    <th scope="row">{{ page.t.metadata_fields.source_url_1 }}</th>
-    <td>
-    {% if page.indicator.source_url_1 %}
-      <a href="{{ page.indicator.source_url_1 }}" target="_blank" rel="noopener noreferrer">
-      {{ page.indicator.source_url_text_1 | t }}
+<tr>
+  <th scope="row">{{ page.t.metadata_fields.source_url_1 }}</th>
+  <td>
+    {% assign source_url = page.indicator.source_url_1 %}
+    {% if source_url and source_url != '' %}
+      {% assign source_label = page.indicator.source_url_text_1 | t | strip %}
+      <a href="{{ source_url | escape }}" target="_blank" rel="noopener noreferrer">
+        {{ source_label | default: source_url | escape }}
       </a>
     {% endif %}
-    </td>
-  </tr>
+  </td>
+</tr>
 
   <!-- The contact field -->
   <tr>
