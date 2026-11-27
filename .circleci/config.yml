@@ -108,6 +108,7 @@ jobs:
           name: Deploy to Github
           command: bash scripts/deploy/circleci/deploy_staging.sh
 workflows:
+  version: 2
   test:
     jobs:
       - test:
@@ -118,7 +119,6 @@ workflows:
                 - develop
                 - gh-pages
                 - prod-pages
-
   deploy:
     jobs:
       - deploy_prod:
